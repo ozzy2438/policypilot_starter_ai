@@ -1,0 +1,290 @@
+[
+  {
+    "section_id": "RG271.1",
+    "guide": "RG 271",
+    "title": "Internal dispute resolution — Purpose and scope",
+    "text": "This regulatory guide sets out ASIC's expectations and requirements for the internal dispute resolution (IDR) procedures of financial firms. All Australian financial services (AFS) licensees, Australian credit licensees, and unlicensed product issuers and secondary sellers must have IDR procedures that meet ASIC's requirements.",
+    "effective_date": "2021-10-05",
+    "category": "IDR Framework"
+  },
+  {
+    "section_id": "RG271.28",
+    "guide": "RG 271",
+    "title": "Maximum IDR timeframes — Standard complaints",
+    "text": "Financial firms must provide an IDR response to a complainant no later than 30 calendar days after receiving the complaint. This timeframe applies to all complaints unless a different maximum timeframe applies under paragraph RG 271.56.",
+    "effective_date": "2021-10-05",
+    "category": "Timeframes"
+  },
+  {
+    "section_id": "RG271.56",
+    "guide": "RG 271",
+    "title": "Maximum IDR timeframes — Specific complaint types",
+    "text": "Different maximum IDR timeframes apply for: (a) superannuation trustee complaints other than death benefit distribution complaints — 45 calendar days; (b) superannuation death benefit distribution complaints — 90 calendar days; (c) credit-related complaints involving default notices — 21 calendar days; (d) complaints involving hardship notices or requests to postpone enforcement — 21 calendar days.",
+    "effective_date": "2021-10-05",
+    "category": "Timeframes"
+  },
+  {
+    "section_id": "RG271.73",
+    "guide": "RG 271",
+    "title": "Written IDR response requirements",
+    "text": "The IDR response must be in writing and must include: (a) the outcome of the complaint and the reasons for the decision; (b) information about the complainant's right to take the complaint to AFCA if dissatisfied; (c) the contact details for AFCA.",
+    "effective_date": "2021-10-05",
+    "category": "Response Requirements"
+  },
+  {
+    "section_id": "RG271.85",
+    "guide": "RG 271",
+    "title": "Identifying complaints",
+    "text": "An expression of dissatisfaction made to or about an organisation, related to its products, services, staff or the handling of a complaint, where a response or resolution is explicitly or implicitly expected or legally required, is a complaint and must be dealt with under the firm's IDR procedures.",
+    "effective_date": "2021-10-05",
+    "category": "Complaint Definition"
+  },
+  {
+    "section_id": "RG271.92",
+    "guide": "RG 271",
+    "title": "Acknowledging complaints",
+    "text": "Financial firms must acknowledge receipt of a complaint to the complainant in writing within one business day of receiving the complaint, or as soon as practicable. The acknowledgment should include a unique complaint reference number and expected timeframes for resolution.",
+    "effective_date": "2021-10-05",
+    "category": "Acknowledgment"
+  },
+  {
+    "section_id": "RG271.108",
+    "guide": "RG 271",
+    "title": "Systemic issues and serious contraventions",
+    "text": "Financial firms must have processes for identifying, recording, reporting, and acting on systemic issues arising from complaints. A systemic issue is an issue that has implications beyond an individual complaint, including issues that affect or have the potential to affect multiple consumers.",
+    "effective_date": "2021-10-05",
+    "category": "Systemic Issues"
+  },
+  {
+    "section_id": "RG271.120",
+    "guide": "RG 271",
+    "title": "Data collection and reporting",
+    "text": "Financial firms must collect and report IDR data to ASIC, including the number of complaints received, open and closed, the issues and outcomes, and the time taken to close complaints. This data helps ASIC monitor compliance and identify emerging consumer issues.",
+    "effective_date": "2021-10-05",
+    "category": "Reporting"
+  },
+  {
+    "section_id": "RG165.77",
+    "guide": "RG 165",
+    "title": "Licensing: Internal and external dispute resolution — Hardship",
+    "text": "When a consumer notifies their financial firm of financial difficulty, the firm should consider whether it is appropriate to: (a) postpone or stay any enforcement action; (b) extend the period of the loan; (c) reduce the consumer's repayments; (d) accept a lump sum payment; or (e) agree to any other reasonable arrangement the consumer proposes.",
+    "effective_date": "2020-01-01",
+    "category": "Hardship"
+  },
+  {
+    "section_id": "RG209.1",
+    "guide": "RG 209",
+    "title": "Credit licensing: Responsible lending conduct — Overview",
+    "text": "This guide sets out our expectations for how credit licensees and their representatives should meet their responsible lending obligations under the National Consumer Credit Protection Act 2009 (National Credit Act). Licensees must not enter into or suggest a credit contract that is unsuitable for the consumer.",
+    "effective_date": "2019-12-20",
+    "category": "Responsible Lending"
+  },
+  {
+    "section_id": "RG209.24",
+    "guide": "RG 209",
+    "title": "Responsible lending — Reasonable inquiries about financial situation",
+    "text": "A credit licensee must make reasonable inquiries about the consumer's financial situation, including their income, existing debts and financial obligations, and living expenses. The licensee must take reasonable steps to verify the consumer's financial situation.",
+    "effective_date": "2019-12-20",
+    "category": "Responsible Lending"
+  },
+  {
+    "section_id": "RG209.40",
+    "guide": "RG 209",
+    "title": "Responsible lending — Assessment of suitability",
+    "text": "A credit contract is unsuitable if, at the time of assessment: (a) it does not meet the consumer's requirements and objectives; or (b) the consumer could not comply with the financial obligations under the contract, or could only comply with substantial hardship.",
+    "effective_date": "2019-12-20",
+    "category": "Responsible Lending"
+  },
+  {
+    "section_id": "RG256.1",
+    "guide": "RG 256",
+    "title": "Client review and remediation conducted by advice licensees",
+    "text": "This guide sets out ASIC's expectations for AFS licensees when conducting a client review and remediation program. Licensees should ensure that affected clients are identified, assessed, and compensated in a timely, fair, and transparent manner.",
+    "effective_date": "2021-09-01",
+    "category": "Remediation"
+  },
+  {
+    "section_id": "RG256.50",
+    "guide": "RG 256",
+    "title": "Remediation — Calculating losses and compensation",
+    "text": "When calculating compensation for affected clients, the licensee should compare the client's actual position with the position the client would have been in had the relevant conduct or breach not occurred. Compensation should restore the client to the position they would have been in.",
+    "effective_date": "2021-09-01",
+    "category": "Remediation"
+  },
+  {
+    "section_id": "RG272.1",
+    "guide": "RG 272",
+    "title": "External dispute resolution — AFCA scheme requirements",
+    "text": "AFCA is approved by the Minister as the single external dispute resolution scheme for financial complaints. Financial firms that are required to be a member of AFCA must comply with AFCA's Rules and operational guidelines.",
+    "effective_date": "2021-11-01",
+    "category": "EDR Framework"
+  },
+  {
+    "section_id": "RG272.35",
+    "guide": "RG 272",
+    "title": "AFCA monetary limits and compensation caps",
+    "text": "AFCA can consider complaints involving claims up to $1,085,000 for most complaint types. The maximum compensation AFCA can award is: (a) $559,600 for complaints about credit, banking, finance, and insurance; (b) $250,000 for complaints about investments and advice; (c) $40,500 for complaints about general insurance brokers.",
+    "effective_date": "2023-01-01",
+    "category": "EDR Framework"
+  },
+  {
+    "section_id": "RG78.1",
+    "guide": "RG 78",
+    "title": "Breach reporting by AFS licensees and credit licensees",
+    "text": "AFS licensees and credit licensees must report significant breaches and likely significant breaches to ASIC. A breach is significant if it constitutes a contravention of a core obligation, or if the breach results in material loss or damage to clients.",
+    "effective_date": "2021-10-01",
+    "category": "Breach Reporting"
+  },
+  {
+    "section_id": "RG78.22",
+    "guide": "RG 78",
+    "title": "Breach reporting — Notification timeframes",
+    "text": "Licensees must lodge a breach report with ASIC within 30 calendar days of becoming aware the breach is a reportable situation. The report must include a description of the breach, the number of affected clients, and the steps taken or proposed to address the breach.",
+    "effective_date": "2021-10-01",
+    "category": "Breach Reporting"
+  },
+  {
+    "section_id": "RG274.1",
+    "guide": "RG 274",
+    "title": "Product design and distribution obligations",
+    "text": "Issuers and distributors of financial products must comply with the design and distribution obligations in Part 7.8A of the Corporations Act. These obligations require issuers to design products that are likely to be consistent with the likely objectives, financial situation and needs of the consumers in the target market.",
+    "effective_date": "2021-10-05",
+    "category": "Product Design"
+  },
+  {
+    "section_id": "RG274.45",
+    "guide": "RG 274",
+    "title": "Target market determination — Requirements",
+    "text": "An issuer must make a target market determination (TMD) for each financial product before it is distributed. The TMD must describe the target market, any conditions or restrictions on distribution, and events or circumstances that would reasonably suggest the TMD is no longer appropriate.",
+    "effective_date": "2021-10-05",
+    "category": "Product Design"
+  },
+  {
+    "section_id": "ICA_S13",
+    "guide": "Insurance Contracts Act 1984",
+    "title": "Section 13 — Duty of utmost good faith",
+    "text": "A contract of insurance is a contract based on the utmost good faith and there is implied in such a contract a provision requiring each party to it to act towards the other party, in respect of any matter arising under or in relation to it, with the utmost good faith.",
+    "effective_date": "1984-06-01",
+    "category": "Insurance Law"
+  },
+  {
+    "section_id": "ICA_S54",
+    "guide": "Insurance Contracts Act 1984",
+    "title": "Section 54 — Insurer may not refuse to pay claims in certain circumstances",
+    "text": "Where the effect of a contract of insurance would, but for this section, be that the insurer may refuse to pay a claim, wholly or in part, by reason of some act or omission of the insured, the insurer may not refuse to pay the claim by reason only of that act or omission if the insured proves that no part of the loss was caused by the act or omission.",
+    "effective_date": "1984-06-01",
+    "category": "Insurance Law"
+  },
+  {
+    "section_id": "ICA_S14",
+    "guide": "Insurance Contracts Act 1984",
+    "title": "Section 14 — Parties not to rely on provisions except in utmost good faith",
+    "text": "If reliance by a party to a contract of insurance on a provision of the contract would be to fail to act with the utmost good faith, the party may not rely on the provision.",
+    "effective_date": "1984-06-01",
+    "category": "Insurance Law"
+  },
+  {
+    "section_id": "NCC_S72",
+    "guide": "National Consumer Credit Protection Act 2009",
+    "title": "Section 72 — Obligation to assess unsuitability",
+    "text": "A credit provider must not enter into a credit contract with a consumer, or increase the credit limit of an existing contract, unless the provider has assessed whether the contract is unsuitable for the consumer and determined it is not unsuitable.",
+    "effective_date": "2009-07-01",
+    "category": "Credit Law"
+  },
+  {
+    "section_id": "NCC_S130",
+    "guide": "National Consumer Credit Protection Act 2009",
+    "title": "Section 130 — Hardship changes",
+    "text": "If a debtor is unable to meet their obligations under a credit contract due to hardship (illness, unemployment, or other reasonable cause), the debtor may give the credit provider a hardship notice. The credit provider must respond within 21 days and must consider making changes to the contract.",
+    "effective_date": "2009-07-01",
+    "category": "Hardship"
+  },
+  {
+    "section_id": "NCC_S133",
+    "guide": "National Consumer Credit Protection Act 2009",
+    "title": "Section 133 — Enforcement proceedings and hardship",
+    "text": "A credit provider must not begin enforcement proceedings against a debtor in relation to a credit contract if a hardship notice has been given and the credit provider has not yet responded to the notice.",
+    "effective_date": "2009-07-01",
+    "category": "Hardship"
+  },
+  {
+    "section_id": "ASIC_ACT_S12CB",
+    "guide": "ASIC Act 2001",
+    "title": "Section 12CB — Unconscionable conduct in connection with financial services",
+    "text": "A person must not, in trade or commerce, in connection with the supply or possible supply of financial services to a person, engage in conduct that is, in all the circumstances, unconscionable. The court may have regard to the relative strengths of the bargaining positions of the parties.",
+    "effective_date": "2001-03-11",
+    "category": "Consumer Protection"
+  },
+  {
+    "section_id": "ASIC_ACT_S12DA",
+    "guide": "ASIC Act 2001",
+    "title": "Section 12DA — Misleading or deceptive conduct",
+    "text": "A person must not, in trade or commerce, engage in conduct in relation to financial services that is misleading or deceptive or is likely to mislead or deceive.",
+    "effective_date": "2001-03-11",
+    "category": "Consumer Protection"
+  },
+  {
+    "section_id": "BANKING_CODE_32",
+    "guide": "Banking Code of Practice 2019",
+    "title": "Chapter 32 — When things go wrong: Complaint handling",
+    "text": "We will handle complaints in a way that is consistent with ASIC regulatory standards. We will acknowledge your complaint promptly and provide you with information about our complaint handling process, including expected timeframes and your option to take your complaint to AFCA.",
+    "effective_date": "2019-07-01",
+    "category": "Banking Code"
+  },
+  {
+    "section_id": "BANKING_CODE_40",
+    "guide": "Banking Code of Practice 2019",
+    "title": "Chapter 40 — Financial difficulty: Working with you",
+    "text": "If you tell us you are in financial difficulty, we will try to help you. We will work with you to find a sustainable solution, which could include changing your repayment amount, extending the term of your loan, or providing a repayment pause.",
+    "effective_date": "2019-07-01",
+    "category": "Banking Code"
+  },
+  {
+    "section_id": "BANKING_CODE_47",
+    "guide": "Banking Code of Practice 2019",
+    "title": "Chapter 47 — Guarantees: Providing information",
+    "text": "Before you sign a guarantee, we will give you information about the risks of providing a guarantee, including the potential liability you may face. We will encourage you to get independent legal and financial advice before signing.",
+    "effective_date": "2019-07-01",
+    "category": "Banking Code"
+  },
+  {
+    "section_id": "GI_COP_7",
+    "guide": "General Insurance Code of Practice 2020",
+    "title": "Section 7 — Claims handling",
+    "text": "We will handle claims promptly, fairly and transparently. For most claims we will make a decision within 10 business days of receiving all the information we need. If we need more time, we will let you know the reason for the delay and keep you informed of the progress.",
+    "effective_date": "2020-07-01",
+    "category": "Insurance Code"
+  },
+  {
+    "section_id": "GI_COP_8",
+    "guide": "General Insurance Code of Practice 2020",
+    "title": "Section 8 — Claims: Financial hardship",
+    "text": "If you tell us you are experiencing financial hardship, we will consider whether we can provide you with support, such as fast-tracking your claim, making an advance payment, or providing interim accommodation or vehicle hire.",
+    "effective_date": "2020-07-01",
+    "category": "Insurance Code"
+  },
+  {
+    "section_id": "GI_COP_9",
+    "guide": "General Insurance Code of Practice 2020",
+    "title": "Section 9 — Claims: Cash settlements",
+    "text": "If we offer a cash settlement instead of repair or replacement, the cash settlement amount will be fair and reasonable and will be based on the cost to repair or replace the insured property with property of a similar type, age and condition.",
+    "effective_date": "2020-07-01",
+    "category": "Insurance Code"
+  },
+  {
+    "section_id": "LIFE_COP_9",
+    "guide": "Life Insurance Code of Practice 2023",
+    "title": "Section 9 — Claims: Assessment principles",
+    "text": "We will assess claims fairly, transparently, and in a timely manner. We will not deny a claim based on non-disclosure unless the non-disclosure is directly relevant to the claim and would have affected our decision to offer cover. We will consider all available medical evidence, including evidence from the claimant's treating practitioners.",
+    "effective_date": "2023-07-01",
+    "category": "Life Insurance Code"
+  },
+  {
+    "section_id": "PRIVACY_APP11",
+    "guide": "Privacy Act 1988 — APP 11",
+    "title": "APP 11 — Security of personal information",
+    "text": "An APP entity that holds personal information must take such steps as are reasonable in the circumstances to protect the information from misuse, interference and loss, and from unauthorised access, modification or disclosure.",
+    "effective_date": "2014-03-12",
+    "category": "Privacy"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "TC-001",
+    "complaint_text": "I noticed three transactions on my Visa credit card totalling $4,280 that I did not authorise. The charges were made at electronics stores in Sydney while I was overseas.",
+    "expected_category": "Unauthorised Transaction",
+    "expected_product": "Credit Card",
+    "expected_policy_refs": ["ePayments Code", "RG 271"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"monetary_amounts": ["$4,280"], "product_mentions": ["credit card"]}
+  },
+  {
+    "id": "TC-002",
+    "complaint_text": "My home was damaged in the January floods. I lodged a claim for $45,000 in repairs but the insurer denied it saying the damage was caused by 'rising water' not 'storm damage'.",
+    "expected_category": "Claim Denial",
+    "expected_product": "General Insurance",
+    "expected_policy_refs": ["ICA s.54", "GI Code s.7"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"monetary_amounts": ["$45,000"]}
+  },
+  {
+    "id": "TC-003",
+    "complaint_text": "I lost my job and requested a 3-month repayment pause on my home loan. The bank refused and offered to extend my loan by 5 years costing $85,000 extra in interest.",
+    "expected_category": "Financial Hardship",
+    "expected_product": "Home Loan",
+    "expected_policy_refs": ["NCC s.130", "Banking Code Ch.40", "RG 271.56"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"monetary_amounts": ["$85,000"], "durations": ["3-month", "5 years"], "product_mentions": ["home loan"]}
+  },
+  {
+    "id": "TC-004",
+    "complaint_text": "Someone opened a credit card in my name using stolen identity documents and accumulated $15,000 in charges. The bank approved the application without adequate identity verification.",
+    "expected_category": "Fraud",
+    "expected_product": "Credit Card",
+    "expected_policy_refs": ["ePayments Code", "Privacy Act"],
+    "expected_risk_level": "CRITICAL",
+    "expected_entities": {"monetary_amounts": ["$15,000"], "product_mentions": ["credit card"]}
+  },
+  {
+    "id": "TC-005",
+    "complaint_text": "I was approved for a $750,000 home loan despite having an income of only $85,000 and existing debts of $60,000. The bank failed its responsible lending obligations.",
+    "expected_category": "Responsible Lending",
+    "expected_product": "Home Loan",
+    "expected_policy_refs": ["RG 209", "NCC s.72"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"monetary_amounts": ["$750,000", "$85,000", "$60,000"], "product_mentions": ["home loan"]}
+  },
+  {
+    "id": "TC-006",
+    "complaint_text": "My insurer offered $22,000 for my written-off vehicle but comparable listings show it is worth $28,000. They used automated valuation ignoring low mileage and condition.",
+    "expected_category": "Claim Dispute",
+    "expected_product": "General Insurance",
+    "expected_policy_refs": ["GI Code s.9", "ICA s.13"],
+    "expected_risk_level": "MEDIUM",
+    "expected_entities": {"monetary_amounts": ["$22,000", "$28,000"]}
+  },
+  {
+    "id": "TC-007",
+    "complaint_text": "My bank sent my complete financial statements to another customer with the same surname. This is a serious privacy breach and I have suffered distress.",
+    "expected_category": "Privacy Breach",
+    "expected_product": "Banking",
+    "expected_policy_refs": ["Privacy Act APP 11", "Banking Code"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {}
+  },
+  {
+    "id": "TC-008",
+    "complaint_text": "My income protection claim was denied because the insurer says my condition does not meet the policy definition of total disability. My psychiatrist disagrees.",
+    "expected_category": "Claim Denial",
+    "expected_product": "Life Insurance",
+    "expected_policy_refs": ["ICA s.54", "Life Insurance Code s.9"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"product_mentions": ["income protection"]}
+  },
+  {
+    "id": "TC-009",
+    "complaint_text": "I was charged a $450 annual fee on my platinum credit card despite calling to downgrade my card two months prior. The bank has no record of my call.",
+    "expected_category": "Fees and Charges",
+    "expected_product": "Credit Card",
+    "expected_policy_refs": ["Banking Code Ch.32", "RG 271"],
+    "expected_risk_level": "LOW",
+    "expected_entities": {"monetary_amounts": ["$450"], "product_mentions": ["credit card"]}
+  },
+  {
+    "id": "TC-010",
+    "complaint_text": "I was scammed into transferring $18,500 to a fraudulent investment platform. I reported the scam within 2 hours but my bank says they cannot recover the funds.",
+    "expected_category": "Scam Loss",
+    "expected_product": "Banking",
+    "expected_policy_refs": ["Banking Code", "ePayments Code"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"monetary_amounts": ["$18,500"], "durations": ["2 hours"]}
+  },
+  {
+    "id": "TC-011",
+    "complaint_text": "My superannuation death benefit is being distributed to my partner's ex-wife instead of me. We have been in a de facto relationship for 8 years and I am the listed beneficiary.",
+    "expected_category": "Death Benefit Distribution",
+    "expected_product": "Superannuation",
+    "expected_policy_refs": ["RG 271.56(b)", "SIS Act"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"durations": ["8 years"], "product_mentions": ["superannuation"]}
+  },
+  {
+    "id": "TC-012",
+    "complaint_text": "My credit card payments are being allocated to the lowest interest rate balance instead of the highest, contrary to ASIC credit card reforms from 2019.",
+    "expected_category": "Payment Allocation",
+    "expected_product": "Credit Card",
+    "expected_policy_refs": ["ASIC credit card reforms", "RG 271"],
+    "expected_risk_level": "MEDIUM",
+    "expected_entities": {"product_mentions": ["credit card"]}
+  },
+  {
+    "id": "TC-013",
+    "complaint_text": "A debt collector has been calling me 3-4 times daily and contacted my employer. The debt is disputed and their conduct breaches ACCC guidelines.",
+    "expected_category": "Debt Collection",
+    "expected_product": "Personal Loan",
+    "expected_policy_refs": ["ACCC debt collection guidelines"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {}
+  },
+  {
+    "id": "TC-014",
+    "complaint_text": "My home insurance premium increased by 42% at renewal with no explanation. I have never made a claim in 12 years.",
+    "expected_category": "Premium Increase",
+    "expected_product": "General Insurance",
+    "expected_policy_refs": ["GI Code", "ICA s.13"],
+    "expected_risk_level": "MEDIUM",
+    "expected_entities": {"percentages": ["42%"], "durations": ["12 years"], "product_mentions": ["home insurance"]}
+  },
+  {
+    "id": "TC-015",
+    "complaint_text": "My mortgage broker recommended a loan product with a honeymoon rate that reverted to significantly above market. The broker received a higher commission on this product.",
+    "expected_category": "Broker Conduct",
+    "expected_product": "Home Loan",
+    "expected_policy_refs": ["NCC", "Best interests duty"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"product_mentions": ["mortgage"]}
+  },
+  {
+    "id": "TC-016",
+    "complaint_text": "My financial adviser switched my super from a low-cost industry fund to a retail fund with fees going from $680 to $2,400 per year without explaining the difference.",
+    "expected_category": "Inappropriate Advice",
+    "expected_product": "Superannuation",
+    "expected_policy_refs": ["Corporations Act", "RG 256"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"monetary_amounts": ["$680", "$2,400"], "product_mentions": ["superannuation", "super fund"]}
+  },
+  {
+    "id": "TC-017",
+    "complaint_text": "My bank's mobile app was down for 3 days. This resulted in dishonoured direct debits costing $60 in fees and a late payment on my credit report.",
+    "expected_category": "System Outage",
+    "expected_product": "Banking",
+    "expected_policy_refs": ["Banking Code", "RG 271"],
+    "expected_risk_level": "MEDIUM",
+    "expected_entities": {"monetary_amounts": ["$60"], "durations": ["3 days"]}
+  },
+  {
+    "id": "TC-018",
+    "complaint_text": "My life insurance claim was denied under the suicide exclusion clause but the coroner made no finding of intentional self-harm. My husband died in a vehicle accident.",
+    "expected_category": "Claim Denial",
+    "expected_product": "Life Insurance",
+    "expected_policy_refs": ["ICA s.54", "Life Insurance Code"],
+    "expected_risk_level": "CRITICAL",
+    "expected_entities": {"product_mentions": ["life insurance"]}
+  },
+  {
+    "id": "TC-019",
+    "complaint_text": "My insurer is deducting 30% from my claim for roof replacement due to betterment but my policy is new-for-old and there is no betterment clause in the PDS.",
+    "expected_category": "Betterment Dispute",
+    "expected_product": "General Insurance",
+    "expected_policy_refs": ["ICA s.54", "GI Code s.9"],
+    "expected_risk_level": "MEDIUM",
+    "expected_entities": {"percentages": ["30%"]}
+  },
+  {
+    "id": "TC-020",
+    "complaint_text": "My ex-partner took out an additional $50,000 on our joint home loan without my knowledge. The bank processed a forged signature.",
+    "expected_category": "Unauthorised Credit Increase",
+    "expected_product": "Home Loan",
+    "expected_policy_refs": ["Banking Code", "NCC"],
+    "expected_risk_level": "CRITICAL",
+    "expected_entities": {"monetary_amounts": ["$50,000"], "product_mentions": ["home loan"]}
+  },
+  {
+    "id": "TC-021",
+    "complaint_text": "I cancelled my car insurance mid-term and was charged a $300 cancellation fee plus a short-rate penalty reducing my refund by 40%. The PDS doesn't disclose the calculation.",
+    "expected_category": "Policy Cancellation",
+    "expected_product": "General Insurance",
+    "expected_policy_refs": ["ICA", "GI Code"],
+    "expected_risk_level": "LOW",
+    "expected_entities": {"monetary_amounts": ["$300"], "percentages": ["40%"], "product_mentions": ["car insurance"]}
+  },
+  {
+    "id": "TC-022",
+    "complaint_text": "My Total and Permanent Disability claim through my super fund has been in assessment for 14 months. I have provided all medical evidence but the fund keeps requesting more reports.",
+    "expected_category": "Claim Delay",
+    "expected_product": "Superannuation",
+    "expected_policy_refs": ["RG 271.56(a)", "SIS Act"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"durations": ["14 months"], "product_mentions": ["super fund"]}
+  },
+  {
+    "id": "TC-023",
+    "complaint_text": "My business interruption insurance claim for COVID-19 was denied despite my policy not containing a pandemic exclusion, contrary to the AFCA test case ruling.",
+    "expected_category": "Claim Denial",
+    "expected_product": "General Insurance",
+    "expected_policy_refs": ["ICA s.54", "AFCA test case"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"product_mentions": ["general insurance"]}
+  },
+  {
+    "id": "TC-024",
+    "complaint_text": "I applied for early release of my superannuation on compassionate grounds for urgent medical treatment but the fund has delayed 8 weeks requesting documents I already provided.",
+    "expected_category": "Early Release Delay",
+    "expected_product": "Superannuation",
+    "expected_policy_refs": ["SIS Act", "RG 271"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"durations": ["8 weeks"], "product_mentions": ["superannuation"]}
+  },
+  {
+    "id": "TC-025",
+    "complaint_text": "My bank restricted access to my $45,000 home loan redraw facility without notice. I need the funds for medical expenses urgently.",
+    "expected_category": "Account Access",
+    "expected_product": "Home Loan",
+    "expected_policy_refs": ["Banking Code", "NCC"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"monetary_amounts": ["$45,000"], "product_mentions": ["home loan", "redraw"]}
+  },
+  {
+    "id": "TC-026",
+    "complaint_text": "My travel insurance claim for $8,500 medical expenses was denied for non-disclosure of asthma, but I declared it on the form and paid an additional premium.",
+    "expected_category": "Claim Denial",
+    "expected_product": "General Insurance",
+    "expected_policy_refs": ["ICA s.54", "ICA s.13"],
+    "expected_risk_level": "MEDIUM",
+    "expected_entities": {"monetary_amounts": ["$8,500"], "product_mentions": ["travel insurance"]}
+  },
+  {
+    "id": "TC-027",
+    "complaint_text": "My bank continued direct debiting my account after I cancelled the arrangement. Three unauthorised debits of $580 each caused my account to go into overdraft.",
+    "expected_category": "Unauthorised Transaction",
+    "expected_product": "Banking",
+    "expected_policy_refs": ["ePayments Code", "Banking Code"],
+    "expected_risk_level": "MEDIUM",
+    "expected_entities": {"monetary_amounts": ["$580"]}
+  },
+  {
+    "id": "TC-028",
+    "complaint_text": "My credit card loyalty program earn rate was halved from 1.5 to 0.75 points per dollar with only 30 days notice. I pay $395 annual fee specifically for this earn rate.",
+    "expected_category": "Terms Change",
+    "expected_product": "Credit Card",
+    "expected_policy_refs": ["Banking Code", "ASIC Act s.12DA"],
+    "expected_risk_level": "LOW",
+    "expected_entities": {"monetary_amounts": ["$395"], "durations": ["30 days"], "product_mentions": ["credit card"]}
+  },
+  {
+    "id": "TC-029",
+    "complaint_text": "My business cyber insurance claim for ransomware was denied because I allegedly didn't maintain reasonable security measures. I had antivirus and regular backups.",
+    "expected_category": "Claim Denial",
+    "expected_product": "General Insurance",
+    "expected_policy_refs": ["ICA s.54", "GI Code s.7"],
+    "expected_risk_level": "HIGH",
+    "expected_entities": {"product_mentions": ["general insurance"]}
+  },
+  {
+    "id": "TC-030",
+    "complaint_text": "I purchased furniture for $3,500 that was never delivered. The merchant went into liquidation. My bank refuses to process a chargeback despite being within Visa timeframes.",
+    "expected_category": "Chargeback Dispute",
+    "expected_product": "Credit Card",
+    "expected_policy_refs": ["ePayments Code", "Visa rules"],
+    "expected_risk_level": "MEDIUM",
+    "expected_entities": {"monetary_amounts": ["$3,500"]}
+  }
+]

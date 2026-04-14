@@ -1,0 +1,36 @@
+services:
+  # ── Vector Store ───────────────────────────────────────────
+  qdrant:
+    image: qdrant/qdrant:v1.9.4
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    restart: unless-stopped
+
+  # ── Database ───────────────────────────────────────────────
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: policypilot
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  # ── Monitoring ─────────────────────────────────────────────
+  prometheus:
+    image: prom/prometheus:v2.51.0
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./infra/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    restart: unless-stopped
+
+volumes:
+  qdrant_data:
+  postgres_data:

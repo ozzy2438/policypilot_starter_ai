@@ -1,0 +1,1570 @@
+[
+  {
+    "section_id": "RG 271.1",
+    "guide": "RG 271",
+    "title": "Financial firms must have in place a dispute resolution system that consists of:",
+    "text": "Financial firms must have in place a dispute resolution system that consists of: (a) an IDR procedure that complies with standards and requirements made or approved by ASIC; and (b) membership of AFCA. Note 1: See s912A(1)(g) and 1017G(1) of the Corporations Act 2001 (Corporations Act), s47(1)(h) and (i) of the National Consumer Credit Protection Act 2009 (National Credit Act), s101(1) and (1A) of the Superannuation Industry (Supervision) Act 1993 (SIS Act), and s47(1) and (2) of the Retirement Savings Account Act 1997 (RSA Act). REGULATORY GUIDE 271: Internal dispute resolution © Australian S",
+    "category": "Superannuation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.2",
+    "guide": "RG 271",
+    "title": "Most financial firms also have a requirement to comply with their IDR procedures",
+    "text": "Most financial firms also have a requirement to comply with their IDR procedures: see modified s912A(1)(g) and 1017G(1) of the Corporations Act, and modified s47(1)(h) and (i) of the National Credit Act.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.3",
+    "guide": "RG 271",
+    "title": "A modified regulatory regime applies to some unlicensed credit firms.",
+    "text": "A modified regulatory regime applies to some unlicensed credit firms. Credit representatives and exempt special purpose funding entities (exempt SPFEs) (including securitisation bodies) do not have IDR obligations, but must be a member of AFCA. Unlicensed carried over instrument lenders (unlicensed COI lenders) have IDR obligations but are not required to be a member of AFCA. Note: See s64 and 65 of the National Credit Act, and regs 23B and 23C of the National Consumer Credit Protection Regulations 2010 (National Credit Regulations); see also reg 25E of the National Credit Regulations and s47(",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.4",
+    "guide": "RG 271",
+    "title": "Table 1 sets out the dispute resolution requirements by type of financial firm.",
+    "text": "Table 1 sets out the dispute resolution requirements by type of financial firm. Table 1: Legislative dispute resolution requirements by firm type Firm type Description Dispute resolution requirements Australian financial services (AFS) licensees An AFS licensee is a business carrying out financial services. This includes businesses that:  provide financial product advice to clients;  deal in a financial product;  make a market for a financial product;  operate a registered scheme;  provide a custodial or depository service; or  provide traditional trustee company services (traditional se",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.5",
+    "guide": "RG 271",
+    "title": "The objectives of Ch 7 of the Corporations Act are to promote: (a) the confident",
+    "text": "The objectives of Ch 7 of the Corporations Act are to promote: (a) the confident and informed participation of consumers and investors in the Australian financial system (also an objective of ASIC under s1 of the Australian Securities and Investments Commission Act 2001); (b) fairness, honesty and professionalism by those who provide financial services; (c) fair, orderly and transparent markets; and (d) the reduction of systemic risks. Note: See s760A of the Corporations Act",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.6",
+    "guide": "RG 271",
+    "title": "Within this framework, we are responsible for overseeing the effective operation",
+    "text": "Within this framework, we are responsible for overseeing the effective operation of the dispute resolution system, which includes setting the standards and requirements for financial firms’ IDR processes and oversight of AFCA.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.7",
+    "guide": "RG 271",
+    "title": "We must, when considering whether to make or approve standards or requirements r",
+    "text": "We must, when considering whether to make or approve standards or requirements relating to IDR, take into account: (a) AS/NZS 10002:2014; and Note: AS/NZS 10002:2014 is published by SAI Global and available for purchase on their website. It is also available through public libraries across Australia. (b) any other matter we consider relevant. Note: See regs 7.6.02(1)(a) and 7.9.77(1)(a) of the Corporations Regulations 2001 (Corporations Regulations) and reg 10(1)(a) and item 2.20 of Sch 2 to the National Credit Regulations.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.8",
+    "guide": "RG 271",
+    "title": "The standards and requirements set out in ASIC Corporations, Credit and Superann",
+    "text": "The standards and requirements set out in ASIC Corporations, Credit and Superannuation (Internal Dispute Resolution) Instrument 2020/98 and highlighted in this guide are enforceable. Other highlighted requirements in this guide reflect existing legal requirements and are also enforceable.",
+    "category": "Superannuation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.9",
+    "guide": "RG 271",
+    "title": "The parts of this guide that we have not highlighted or set out in the instrumen",
+    "text": "The parts of this guide that we have not highlighted or set out in the instrument are guidance to help financial firms comply with their legal obligations.",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.10",
+    "guide": "RG 271",
+    "title": "We may vary or revoke: (a) a standard or requirement that we have made for IDR;",
+    "text": "We may vary or revoke: (a) a standard or requirement that we have made for IDR; and (b) the operation of a standard or requirement that we have approved in its application to IDR. Note: See regs 7.6.02(2) and 7.9.77(2) of the Corporations Regulations, and reg 10(2) and item 2.20 of Sch 2 to the National Credit Regulations.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.11",
+    "guide": "RG 271",
+    "title": "We have made the requirements in this guide to meet our statutory obligations an",
+    "text": "We have made the requirements in this guide to meet our statutory obligations and, in doing so, promote fair consumer outcomes. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 10 The importance of IDR",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.12",
+    "guide": "RG 271",
+    "title": "Consumer and small business access to fair, timely and effective dispute resolut",
+    "text": "Consumer and small business access to fair, timely and effective dispute resolution is an essential part of the financial services consumer protection framework. It is consistent with ASIC’s function of promoting consumer protection in the Australian financial system. Note: See s12A(2) of the Australian Securities and Investments Commission Act 2001.",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.13",
+    "guide": "RG 271",
+    "title": "As the first step in the financial dispute resolution framework, IDR provides an",
+    "text": "As the first step in the financial dispute resolution framework, IDR provides an opportunity for redress to millions of consumers and small businesses each year.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.14",
+    "guide": "RG 271",
+    "title": "The Ramsay Review’s Final report: Review of the financial system external disput",
+    "text": "The Ramsay Review’s Final report: Review of the financial system external dispute resolution and complaints framework (Ramsay Review final report) stated at p. 189: Effective IDR benefits both firms and consumers. IDR is an important element of financial firms’ overall relationship with their customers and is the primary avenue for aggrieved consumers to seek redress. Pressure on [external dispute resolution] is reduced when complaints are resolved directly between firms and their customers.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.15",
+    "guide": "RG 271",
+    "title": "We encourage all financial firms to cultivate an organisational culture that wel",
+    "text": "We encourage all financial firms to cultivate an organisational culture that welcomes feedback and values complaints. A positive complaint management culture can produce beneficial outcomes for both consumers and firms, including: (a) the opportunity to resolve complaints quickly and directly; (b) the promotion of trusted relationships between the parties; (c) improved levels of consumer confidence and satisfaction; (d) greater understanding of the key drivers of complaints; (e) the ability to identify emerging issues and inform product and service delivery improvements; and (f) reduced AFCA a",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.16",
+    "guide": "RG 271",
+    "title": "To develop and maintain a positive complaint management culture, financial firms",
+    "text": "To develop and maintain a positive complaint management culture, financial firms should have a robust IDR process, including all procedures, documents, policies, resources, governance and arrangements in place to manage complaints.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.17",
+    "guide": "RG 271",
+    "title": "Many firms have addressed the foundational aspects of their IDR process.",
+    "text": "Many firms have addressed the foundational aspects of their IDR process. However, we consider more progress can be made in key areas, including: (a) achieving organisation-wide understanding of the definition of ‘complaint’ and the types of matters that must be dealt with in a firm’s IDR process; (b) increasing the capture, tracking, analysis and reporting of complaint data; REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 11 (c) improving timeliness and efficiency; (d) enhancing the quality of written communications and I",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.18",
+    "guide": "RG 271",
+    "title": "The IDR requirements set out in this guide apply to any expression of dissatisfa",
+    "text": "The IDR requirements set out in this guide apply to any expression of dissatisfaction made by a consumer that meets the definition of ‘complaint’ set out in in AS/NZS 10002:2014: see RG 271.27.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.19",
+    "guide": "RG 271",
+    "title": "We have provided guidance on the types of consumer (including small businesses)",
+    "text": "We have provided guidance on the types of consumer (including small businesses) that financial firms’ IDR processes should cover: see RG 271.36–RG 271.44.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.20",
+    "guide": "RG 271",
+    "title": "Financial firms may tailor their IDR process to suit the nature, scale and compl",
+    "text": "Financial firms may tailor their IDR process to suit the nature, scale and complexity of their business. We have provided guidance on the issues firms should consider when tailoring their process at RG 271.23–RG 271.24.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.21",
+    "guide": "RG 271",
+    "title": "Financial firms may also outsource part or all of their IDR process.",
+    "text": "Financial firms may also outsource part or all of their IDR process. For guidance on the responsibilities that still apply to firms that have outsourced their IDR process, see RG 271.45–RG 271.48. Requirements for IDR processes",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.22",
+    "guide": "RG 271",
+    "title": "This guide sets out: (a) the definition of ‘complaint’ set out in AS/NZS 10002:2",
+    "text": "This guide sets out: (a) the definition of ‘complaint’ set out in AS/NZS 10002:2014 (see RG 271.27); (b) the minimum content requirements for IDR responses (see RG 271.53– RG 271.55); (c) the maximum IDR timeframes for providing an IDR response (see RG 271.56–RG 271.106); (d) our requirements for how financial firms’ IDR processes and procedures will interact with AFCA (see RG 271.111–RG 271.116); (e) the requirements for identifying and escalating systemic issues (see Section D); and (f) our IDR standards (see Section E). REGULATORY GUIDE 271: Internal dispute resolution © Australian Securiti",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.23",
+    "guide": "RG 271",
+    "title": "There are many different kinds of financial firms providing a diverse range of f",
+    "text": "There are many different kinds of financial firms providing a diverse range of financial products and services. We do not take a ‘one size fits all’ approach to regulation. What firms need to do to comply with their IDR obligations will vary according to the nature, scale and complexity of their business.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.24",
+    "guide": "RG 271",
+    "title": "When reviewing or establishing an IDR process, a financial firm should take into",
+    "text": "When reviewing or establishing an IDR process, a financial firm should take into account: (a) the size of their business and the number of people in the organisation; (b) the products and services offered and the volume and size of transactions the firm is responsible for; (c) the nature of their customer base; (d) the diversity and structure of their operations (including the extent to which the IDR function is outsourced); and (e) the likely number and complexity of complaints. Transition period",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.25",
+    "guide": "RG 271",
+    "title": "We acknowledge that some of the IDR reforms in this guide represent change for s",
+    "text": "We acknowledge that some of the IDR reforms in this guide represent change for some financial firms. Firms will need to undertake internal capacity building, establish clear lines of reporting and accountability, develop processes and systems, and upskill staff who are responsible for dealing with complaints.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.26",
+    "guide": "RG 271",
+    "title": "The standards, requirements and guidance in this guide apply to complaints recei",
+    "text": "The standards, requirements and guidance in this guide apply to complaints received by financial firms on or after 5 October 2021. Note: For complaints received by financial firms before 5 October 2021, Regulatory Guide 165 Licensing: Internal and external dispute resolution (RG 165) applies. We will withdraw RG 165 on 5 October 2022. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 13 B Application of IDR requirements Key points A financial firm must have an IDR process that adopts the definition of ‘complaint’ set out in",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.27",
+    "guide": "RG 271",
+    "title": "AS/NZS 10002:2014 sets out the following definition of ‘complaint’ at p.",
+    "text": "AS/NZS 10002:2014 sets out the following definition of ‘complaint’ at p. 6: [An expression] of dissatisfaction made to or about an organization, related to its products, services, staff or the handling of a complaint, where a response or resolution is explicitly or implicitly expected or legally required.",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.28",
+    "guide": "RG 271",
+    "title": "A financial firm must deal with expressions of dissatisfaction that satisfy this",
+    "text": "A financial firm must deal with expressions of dissatisfaction that satisfy this definition under its IDR process, which in turn must meet the requirements set out in this guide. Note: We interpret the words ‘or about an organization’ in the definition to cover expressions of dissatisfaction made on social media in accordance with RG 271.32(a). We do not require these words to be read any more broadly than this.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.29",
+    "guide": "RG 271",
+    "title": "AFS licensees’ IDR processes must cover ‘complaints’ against the licensee: see s",
+    "text": "AFS licensees’ IDR processes must cover ‘complaints’ against the licensee: see s912A of the Corporations Act. Credit licensees’ IDR processes must cover ‘disputes in relation to the credit activities engaged in by the licensee’: see s47 of the National Credit Act. In this guide, we use ‘complaint’ to mean both ‘complaints’ and ‘disputes’ as used in those requirements. Similarly, we use the word ‘complainant’ to refer to a person either making a complaint against an AFS licensee or raising a dispute about credit activities that are engaged in by a credit licensee. REGULATORY GUIDE 271: Internal",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.30",
+    "guide": "RG 271",
+    "title": "We expect firms to take a proactive approach to identifying complaints.",
+    "text": "We expect firms to take a proactive approach to identifying complaints. A response or resolution is ‘explicitly expected’ if a consumer clearly requests it. It is ‘implicitly expected’ if the consumer raises the expression of dissatisfaction in a way that implies the consumer reasonably expects the firm to respond and/or take specific action. A consumer or small business is not required to expressly state the word ‘complaint’ or ‘dispute’, or put their complaint in writing, to trigger a financial firm’s obligation to deal with a matter according to our IDR requirements. Note: Our guidance abou",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.31",
+    "guide": "RG 271",
+    "title": "Financial firms should not categorise an expression of dissatisfaction that meet",
+    "text": "Financial firms should not categorise an expression of dissatisfaction that meets the definition of ‘complaint’ as ‘feedback’, an ‘inquiry’, a ‘comment’ or similar (and therefore not to be dealt with in the firm’s IDR process) merely because: (a) the complainant expresses their dissatisfaction verbally; (b) the firm considers that the matter does not have merit; or (c) a goodwill payment is made to the complainant to resolve the matter without any admission of error. Enforceable paragraph:",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.32",
+    "guide": "RG 271",
+    "title": "Under this guide, the following expressions of dissatisfaction are complaints: (",
+    "text": "Under this guide, the following expressions of dissatisfaction are complaints: (a) posts (that meet the definition of ‘complaint’ set out in RG 271.27) on a social media channel or account owned or controlled by the financial firm that is the subject of the post, where the author is both identifiable and contactable; Note 1: We do not expect financial firms to seek to identify complaints made on third party social media accounts or channels. Note 2: When responding to a complaint made on social media in accordance with RG 271.32(a), a financial firm must ensure consumer privacy is protected. N",
+    "category": "Privacy",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.33",
+    "guide": "RG 271",
+    "title": "For avoidance of doubt, we do not consider the following to be ‘complaints’: (a)",
+    "text": "For avoidance of doubt, we do not consider the following to be ‘complaints’: (a) employment-related complaints raised by financial firm staff; (b) comments made about a firm where a response is not expected, such as: (i) feedback provided in surveys; or (ii) reports intended solely to bring a matter to a financial firm’s attention—for example, that an automatic teller machine (ATM) is damaged; (c) hardship notices or requests to postpone enforcement proceedings, unless the customer raises issues that meet the definition of complaint; and (d) reports of unauthorised transactions under the ePaym",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.34",
+    "guide": "RG 271",
+    "title": "Financial firms structure and resource their complaint management function(s) di",
+    "text": "Financial firms structure and resource their complaint management function(s) differently. Smaller firms may have one person responsible for complaints, along with other duties. Medium-sized and large firms may empower their frontline staff to resolve complaints at the first point of contact, and also provide further opportunities for matters to be considered by a specialist complaints team if complainants are not satisfied with the initial action taken. Some firms, especially in the banking sector, also offer customer advocates as an additional escalation point.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.35",
+    "guide": "RG 271",
+    "title": "Regardless of a firm’s structure, it is the complainant’s expression of dissatis",
+    "text": "Regardless of a firm’s structure, it is the complainant’s expression of dissatisfaction (that meets the definition of ‘complaint’ in RG 271.27) that triggers a firm’s obligation to deal with the matter according to our IDR requirements, not the referral of a complaint to a specialist complaints or IDR team. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 16 Definition of ‘complainant’ Small business complaints Enforceable paragraph:",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.36",
+    "guide": "RG 271",
+    "title": "Any IDR process for financial service providers must be able to deal, at a minim",
+    "text": "Any IDR process for financial service providers must be able to deal, at a minimum, with complaints made by ‘retail clients’, as defined by s761G of the Corporations Act and its related regulations.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.37",
+    "guide": "RG 271",
+    "title": "The AFCA Rules define ‘small business’ as a business that had less than 100 empl",
+    "text": "The AFCA Rules define ‘small business’ as a business that had less than 100 employees at the time of the act or omission by the financial firm that gave rise to the complaint: see Section E.1 of the AFCA Rules. A small business includes a primary producer, if that primary producer is also a small business. Note 1: The AFCA Rules define a primary producer as a primary production business within the meaning of s995.1(1) of the Income Tax Assessment Act 1997. Note 2: The AFCA Rules exclude from AFCA’s jurisdiction a complaint where a complainant is a member of a group of related bodies corporate",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.38",
+    "guide": "RG 271",
+    "title": "We have modified (for IDR purposes only) the definition of ‘small business’ in s",
+    "text": "We have modified (for IDR purposes only) the definition of ‘small business’ in s761G of the Corporations Act to align it with the broader definition in the AFCA Rules. This guarantees consistent dispute resolution access for small business complainants through both IDR and external dispute resolution (EDR). Traditional trustee complaints Enforceable paragraph:",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.39",
+    "guide": "RG 271",
+    "title": "The IDR process for trustee companies providing traditional services (traditiona",
+    "text": "The IDR process for trustee companies providing traditional services (traditional trustees) must be able to deal with complaints made by retail clients. For traditional services, these specifically include individuals and small businesses who: (a) directly engage a trustee company to provide traditional services (e.g. to prepare a will, trust instrument, power of attorney or agency arrangement); and (b) do not directly engage the services of the trustee company, but who may request an information return. These persons include: (i) beneficiaries (including beneficiaries named in a deceased’s wi",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.40",
+    "guide": "RG 271",
+    "title": "An ‘information return’ needs to include certain information about the trust, in",
+    "text": "An ‘information return’ needs to include certain information about the trust, including information about income earned on the trust’s assets, expenses and the net value of the trust’s assets: see s601RAC(1)(e) of the Corporations Act and regs 5D.2.01, 5D.2.02 and 7.1.28A of the Corporations Regulations. Superannuation-related complaints Enforceable paragraph: RG 271.41–",
+    "category": "Superannuation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.41",
+    "guide": "RG 271",
+    "title": "There are specific requirements for IDR processes for regulated superannuation f",
+    "text": "There are specific requirements for IDR processes for regulated superannuation funds (except for SMSFs), approved deposit funds and RSA providers. At a minimum, their IDR process must be able to deal with complaints made by a superannuation fund member or third-party beneficiary who is: (a) eligible to make a complaint to AFCA under s1053 of the Corporations Act; or (b) taken to be a member of a regulated superannuation fund or approved deposit fund, or a holder of an RSA, under s1053A of the Corporations Act.",
+    "category": "Superannuation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.42",
+    "guide": "RG 271",
+    "title": "This means that the IDR process must accept and deal with complaints made by: (a",
+    "text": "This means that the IDR process must accept and deal with complaints made by: (a) superannuation product holders: (i) members or former members of a regulated superannuation fund (but not an SMSF); (ii) beneficiaries or former beneficiaries of an approved deposit fund; (iii) people with an interest in a superannuation annuity policy issued by a life company; (iv) holders or former holders of an RSA; and (v) people with an interest in an insurance contract where the premiums are paid from an RSA; (b) beneficiaries with an interest in a death benefit; and (c) parties (and intending parties) to a",
+    "category": "Insurance",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.43",
+    "guide": "RG 271",
+    "title": "At a minimum, an IDR process for credit must be able to handle complaints made a",
+    "text": "At a minimum, an IDR process for credit must be able to handle complaints made about the credit activities engaged in by the credit licensee or its credit representatives, or an unlicensed COI lender: s47(1)(h) of the National Credit Act and Sch 2 to the National Credit Regulations. This will involve covering complaints made by consumers of credit, lessees and guarantors as defined under the National Credit Act.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.44",
+    "guide": "RG 271",
+    "title": "We encourage firms to develop IDR processes that have broader coverage than outl",
+    "text": "We encourage firms to develop IDR processes that have broader coverage than outlined at RG 271.43, and that are consistent with the nature of their business and their dealings with consumers and investors. In particular, we encourage all credit licensees to deal with complaints from small businesses—as defined in the AFCA Rules—under their IDR processes. Outsourcing IDR processes",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.45",
+    "guide": "RG 271",
+    "title": "Some financial firms outsource part, or all, of their IDR process.",
+    "text": "Some financial firms outsource part, or all, of their IDR process. Outsourcing might be to external parties or to other entities within a related corporate group.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.46",
+    "guide": "RG 271",
+    "title": "A financial firm that outsources part, or all, of its IDR process remains respon",
+    "text": "A financial firm that outsources part, or all, of its IDR process remains responsible for ensuring that the service provider’s IDR processes comply with all the requirements in this regulatory guide.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.47",
+    "guide": "RG 271",
+    "title": "Outsourcing should also be done in a way that ensures accessibility for consumer",
+    "text": "Outsourcing should also be done in a way that ensures accessibility for consumers and maintains a consumer-centric approach. Enforceable paragraph:",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.48",
+    "guide": "RG 271",
+    "title": "Firms that outsource part, or all, of their IDR process must: (a) have measures",
+    "text": "Firms that outsource part, or all, of their IDR process must: (a) have measures in place to ensure that due skill and care is taken in choosing suitable service providers; (b) monitor the ongoing performance of service providers; and (c) appropriately deal with any actions by service providers that breach service level agreements or fall short of their obligations under this regulatory guide. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 19 C Maximum IDR timeframes and IDR responses Key points This section sets out: • w",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.49",
+    "guide": "RG 271",
+    "title": "Timeliness is central to effective complaint management and is a key performance",
+    "text": "Timeliness is central to effective complaint management and is a key performance measure of a firm’s IDR process. Findings from ASIC’s research into the consumer experience of the IDR journey indicate that delays and frictions in the IDR process can create real barriers for consumers and damage the consumer–firm relationship. Note: See Report 603 The consumer journey through the Internal Dispute Resolution process of financial service providers (REP 603).",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.50",
+    "guide": "RG 271",
+    "title": "Important measures of timeliness include the length taken to acknowledge a compl",
+    "text": "Important measures of timeliness include the length taken to acknowledge a complaint and to provide the complainant with an IDR response. Acknowledgement of complaint",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.51",
+    "guide": "RG 271",
+    "title": "A financial firm should acknowledge receipt of each complaint promptly.",
+    "text": "A financial firm should acknowledge receipt of each complaint promptly. We expect that firms will acknowledge the complaint within 24 hours (or one business day) of receiving it, or as soon as practicable.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.52",
+    "guide": "RG 271",
+    "title": "Financial firms may acknowledge a complaint verbally or in writing (email, post",
+    "text": "Financial firms may acknowledge a complaint verbally or in writing (email, post or social media channels). When determining the appropriate method of communication, we expect firms to take into account the method used by the complainant to lodge their complaint and any preferences they may have expressed about communication methods. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 20 What an IDR response must contain Enforceable paragraphs: RG 271.53–",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.53",
+    "guide": "RG 271",
+    "title": "An ‘IDR response’ is a written communication from a financial firm to the compla",
+    "text": "An ‘IDR response’ is a written communication from a financial firm to the complainant, informing them of: (a) the final outcome of their complaint at IDR (either confirmation of actions taken by the firm to fully resolve the complaint or reasons for rejection or partial rejection of the complaint); (b) their right to take the complaint to AFCA if they are not satisfied with the IDR response; and (c) the contact details for AFCA. Note 1: In order to give an IDR response, unlicensed COI lenders who have not joined AFCA must inform the complainant of the final outcome of their complaint at IDR wi",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.54",
+    "guide": "RG 271",
+    "title": "If a financial firm rejects or partially rejects the complaint, the IDR response",
+    "text": "If a financial firm rejects or partially rejects the complaint, the IDR response must clearly set out the reasons for the decision by: (a) identifying and addressing the issues raised in the complaint; (b) setting out the financial firm’s findings on material questions of fact and referring to the information that supports those findings; and (c) providing enough detail for the complainant to understand the basis of the decision and to be fully informed when deciding whether to escalate the matter to AFCA or another forum.",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.55",
+    "guide": "RG 271",
+    "title": "The level of detail in an IDR response should reflect the complexity of the comp",
+    "text": "The level of detail in an IDR response should reflect the complexity of the complaint and the nature and extent of any investigation conducted by the firm. We do not expect financial firms to provide information in an IDR response that would breach the firm’s privacy or other legislative obligations (e.g. the ‘tipping off’ provisions of the Anti-Money Laundering and Counter- Terrorism Financing Act 2006). REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 21 Maximum timeframes for an IDR response When an IDR response must be",
+    "category": "Privacy",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.56",
+    "guide": "RG 271",
+    "title": "A financial firm must provide an IDR response to a complainant no later than 30",
+    "text": "A financial firm must provide an IDR response to a complainant no later than 30 calendar days after receiving the complaint. However, in some cases a different timeframe applies: see RG 271.58. There are also exceptions: see RG 271.64–RG 271.66. Note: Section 36 (Calculating time) of the Acts Interpretation Act 1901 is to be applied in construing the timeframes in RG 271. The timeframes begin on the day that the complaint is received, regardless of whether the day of receipt is a business day. As per s36, the timeframes do not include the day of receipt. ‘Day 1’ is therefore the first calendar",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.57",
+    "guide": "RG 271",
+    "title": "Superannuation trustees and RSA providers satisfy the requirement to provide wri",
+    "text": "Superannuation trustees and RSA providers satisfy the requirement to provide written reasons for a decision (see s101(1)(d) of the SIS Act and s47(1)(d) of the RSA Act) when they provide an IDR response.",
+    "category": "Superannuation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.58",
+    "guide": "RG 271",
+    "title": "Table 2 summarises the maximum IDR timeframes for all complaints.",
+    "text": "Table 2 summarises the maximum IDR timeframes for all complaints.",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.59",
+    "guide": "RG 271",
+    "title": "Different timeframes apply to: (a) complaints about a traditional trustee (see R",
+    "text": "Different timeframes apply to: (a) complaints about a traditional trustee (see RG 271.76–RG 271.78); (b) complaints about superannuation trustees (see RG 271.79); (c) complaints about superannuation death benefit distributions (see RG 271.80–RG 271.85); and (d) certain types of credit complaints (see RG 271.86–RG 271.101).",
+    "category": "Superannuation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.60",
+    "guide": "RG 271",
+    "title": "There are also different requirements for complaints closed within five business",
+    "text": "There are also different requirements for complaints closed within five business days of receipt: see RG 271.71–RG 271.75. Table 2: Maximum IDR timeframes for financial firms to provide an IDR response Complaint type Maximum timeframes for IDR response More information Standard complaints No later than 30 calendar days after receiving the complaint.",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.78",
+    "guide": "RG 271",
+    "title": "Superannuation trustee complaints, except for complaints about death benefit dis",
+    "text": "Superannuation trustee complaints, except for complaints about death benefit distributions No later than 45 calendar days after receiving the complaint.",
+    "category": "Superannuation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.85",
+    "guide": "RG 271",
+    "title": "Credit-related complaints involving default notices No later than 21 calendar da",
+    "text": "Credit-related complaints involving default notices No later than 21 calendar days after receiving the complaint.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.91",
+    "guide": "RG 271",
+    "title": "Credit-related complaints involving hardship notices or requests to postpone enf",
+    "text": "Credit-related complaints involving hardship notices or requests to postpone enforcement proceedings No later than 21 calendar days after receiving the complaint. Exceptions apply if the credit provider or lessor does not have sufficient information to make a decision, or if they reach an agreement with the complainant. Insufficient information If the credit provider or lessor does not have sufficient information about a hardship notice to make a decision, they must request the information no later than 21 calendar days after receiving the complaint. The complainant must provide the informatio",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.61",
+    "guide": "RG 271",
+    "title": "We consider that an objection to a proposed decision about how and to whom to pa",
+    "text": "We consider that an objection to a proposed decision about how and to whom to pay a superannuation death benefit distribution is a complaint. For details on how the maximum IDR timeframe applies to death benefit distribution complaints, see RG 271.80–RG 271.85.",
+    "category": "Superannuation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.62",
+    "guide": "RG 271",
+    "title": "Where a complaint about unauthorised transactions is covered by card scheme rule",
+    "text": "Where a complaint about unauthorised transactions is covered by card scheme rules, the timeframes for providing a response set out in the scheme rules will apply. Complaint management delays",
+    "category": "Unauthorised Transaction",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.63",
+    "guide": "RG 271",
+    "title": "There are many variables that can affect complaint response times.",
+    "text": "There are many variables that can affect complaint response times. This includes the complexity of the issues raised and the availability of information, including from third parties. However, we consider that the pursuit of best practice should result in firms regularly meeting or outperforming the maximum IDR timeframes. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 23 Enforceable paragraphs: RG 271.64–",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.64",
+    "guide": "RG 271",
+    "title": "A financial firm is not required to provide a complainant with an IDR response w",
+    "text": "A financial firm is not required to provide a complainant with an IDR response within the relevant maximum IDR timeframe if certain circumstances exist: see RG 271.65–RG 271.66.",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.65",
+    "guide": "RG 271",
+    "title": "First, there must be no reasonable opportunity for the financial firm to provide",
+    "text": "First, there must be no reasonable opportunity for the financial firm to provide the IDR response within the relevant maximum IDR timeframe because: (a) resolution of the individual complaint is particularly complex (see",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.67",
+    "guide": "RG 271",
+    "title": "for examples of ‘complexity’); and/or (b) circumstances beyond the financial fir",
+    "text": "for examples of ‘complexity’); and/or (b) circumstances beyond the financial firm’s control are causing complaint management delays (see",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.66",
+    "guide": "RG 271",
+    "title": "Second, before the relevant maximum IDR timeframe expires, the financial firm mu",
+    "text": "Second, before the relevant maximum IDR timeframe expires, the financial firm must give the complainant an ‘IDR delay notification’ that informs the complainant about: (a) the reasons for the delay; (b) their right to complain to AFCA if they are dissatisfied; and (c) the contact details for AFCA. Note 1: We consider that objections to proposed decisions about how and to whom to pay a superannuation death benefit distribution are complaints. AFCA cannot consider a complaint about a death benefit distribution unless the complainant has first lodged a complaint about that decision with the death",
+    "category": "Superannuation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.68",
+    "guide": "RG 271",
+    "title": "Examples of circumstances that may be beyond a financial firm’s control include",
+    "text": "Examples of circumstances that may be beyond a financial firm’s control include when: (a) the complainant is waiting on a medical appointment that the firm reasonably requires the complainant to attend; (b) the complainant is unable to respond to the financial firm due to illness or absence; (c) information must be obtained from third parties to a complaint (excluding an authorised representative who is a party to the complaint); and (d) a death benefit decision-maker is waiting on information requested from potential beneficiaries to a death benefit to substantiate their claim. Enforceable pa",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.69",
+    "guide": "RG 271",
+    "title": "Superannuation trustees and RSA providers satisfy the requirement to provide wri",
+    "text": "Superannuation trustees and RSA providers satisfy the requirement to provide written reasons for the failure by a trustee to make a decision on a complaint (see s101(1)(d) of the SIS Act and s47(1)(d) of the RSA Act) when they provide an IDR delay notification.",
+    "category": "Superannuation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.70",
+    "guide": "RG 271",
+    "title": "Unlicensed COI lenders who have not joined AFCA need to inform the complainant o",
+    "text": "Unlicensed COI lenders who have not joined AFCA need to inform the complainant of the reasons for the delay before the end of the 30 calendar day period. Complaints closed within five business days of receipt Enforceable paragraph:",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.71",
+    "guide": "RG 271",
+    "title": "A financial firm does not need to provide an IDR response to a complainant if th",
+    "text": "A financial firm does not need to provide an IDR response to a complainant if the firm closes the complaint by the end of the fifth business day after receipt because the firm has: (a) resolved the complaint to the complainant’s satisfaction (see RG 271.73); or (b) given the complainant an explanation and/or apology when the firm can take no further action to reasonably address the complaint (see RG 271.74).",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.73",
+    "guide": "RG 271",
+    "title": "When determining whether a complaint has been resolved to a complainant’s satisf",
+    "text": "When determining whether a complaint has been resolved to a complainant’s satisfaction, we expect firms to consider whether: (a) the complainant has confirmed (verbally or in writing) that they are satisfied with the action(s) taken by the financial firm in response to the complaint and do not wish to take the matter further; or (b) other circumstances exist that make it reasonable for the firm to form the view that the complaint has been resolved to the complainant’s satisfaction. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 20",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.74",
+    "guide": "RG 271",
+    "title": "In some circumstances, it may be reasonable for a financial firm to form the vie",
+    "text": "In some circumstances, it may be reasonable for a financial firm to form the view that an explanation and/or apology is the only action they can take to address the complaint. For example, if the complaint relates only to: (a) a financial firm’s commercial decision, such as a refusal to grant credit or provide insurance cover on certain terms; or (b) reasonable initial contact by a financial firm about debt collection. Enforceable paragraph:",
+    "category": "Insurance",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.75",
+    "guide": "RG 271",
+    "title": "A financial firm must provide a written IDR response, even where the complaint i",
+    "text": "A financial firm must provide a written IDR response, even where the complaint is closed by the end of the fifth business day: (a) if the complainant requests a written response; (b) if the complaint is about: (i) hardship; (ii) a declined insurance claim; or (iii) the value of an insurance claim; or (c) for any decision of a trustee (or failure by the trustee to make a decision) relating to a complaint. A trustee in this paragraph means a trustee of a regulated superannuation fund other than an SMSF, or of an approved deposit fund (see s101(1)(d) of the SIS Act). Note: Section 101(1)(d) of th",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.76",
+    "guide": "RG 271",
+    "title": "During the 45 calendar day maximum IDR timeframe, a traditional trustee must: (a",
+    "text": "During the 45 calendar day maximum IDR timeframe, a traditional trustee must: (a) on receiving the complaint, use their best endeavours to identify and notify other people who may request an information return (i.e. other beneficiaries) and who may reasonably have an interest in the outcome of the complaint. We encourage traditional trustees to do this as quickly as possible; (b) where relevant to the efficient and fair handling of the complaint at IDR, consider the views of those identified at RG 271.76(a); and (c) keep those identified at RG 271.76(a) informed of the progress of the complain",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.77",
+    "guide": "RG 271",
+    "title": "Under the 45 calendar day maximum IDR timeframe, time stops running when: (a) an",
+    "text": "Under the 45 calendar day maximum IDR timeframe, time stops running when: (a) another person commences legal proceedings to be included as a beneficiary and the outcome would affect the handling of the complaint at IDR; or (b) the traditional trustee applies for an opinion, advice or direction from a court to reasonably handle the complaint at IDR (e.g. where the trustee company is acting as a manager or administrator of the trust property).",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.79",
+    "guide": "RG 271",
+    "title": "A complainant may lodge a complaint about insurance in superannuation with the i",
+    "text": "A complainant may lodge a complaint about insurance in superannuation with the insurer or the trustee. Trustees, insurers and administrators must have arrangements in place to ensure the maximum IDR timeframe is complied with regardless of the initial lodgement point. Time starts to run from the date the complaint is first lodged with either one of the parties. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 27 Objections to superannuation death benefit distributions",
+    "category": "Insurance",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.80",
+    "guide": "RG 271",
+    "title": "A death benefit decision-maker may, when distributing a death benefit, go throug",
+    "text": "A death benefit decision-maker may, when distributing a death benefit, go through an initial information-gathering process and then propose a decision on how and to whom to pay the benefit: see s1056 of the Corporations Act. Notice of the proposal is sent to all potential beneficiaries, explaining that they may object to the proposal within 28 calendar days of receiving it: see s1056(2)(a). Enforceable paragraphs: RG 271.81–",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.81",
+    "guide": "RG 271",
+    "title": "Any objection to a proposed death benefit distribution is a complaint and will t",
+    "text": "Any objection to a proposed death benefit distribution is a complaint and will trigger the start of the IDR process.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.82",
+    "guide": "RG 271",
+    "title": "When an objection is made, the 90 calendar day maximum IDR timeframe begins from",
+    "text": "When an objection is made, the 90 calendar day maximum IDR timeframe begins from the end of the 28 calendar day objection period.",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.83",
+    "guide": "RG 271",
+    "title": "After reviewing any objections, the death benefit decision-maker may either: (a)",
+    "text": "After reviewing any objections, the death benefit decision-maker may either: (a) amend the previous proposed decision and give all potential beneficiaries additional notice that the decision-maker proposes to make a new decision (and further objections must be notified to the death benefit decision-maker within 28 calendar days); or (b) maintain the previous proposed decision and give all potential beneficiaries notice that they have made the decision (and eligible complainants can make a complaint to AFCA within 28 calendar days).",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.84",
+    "guide": "RG 271",
+    "title": "When the death benefit decision-maker gives notice of a new proposed decision in",
+    "text": "When the death benefit decision-maker gives notice of a new proposed decision in response to an objection (as set out in RG 271.83(a), they must: (a) provide each complainant with a response that meets the minimum IDR response requirements set out in RG 271.53–RG 271.54, except for the AFCA-related requirements at RG 271.53(b)–RG 271.53(c). This is because any objection must be made to the death benefit decision- maker, rather than to AFCA; and (b) provide any non-complaining beneficiaries with the same information as the complainant, while complying with any obligations under privacy laws; No",
+    "category": "Privacy",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.86",
+    "guide": "RG 271",
+    "title": "If a complaint involves a default notice, the credit provider or lessor must pro",
+    "text": "If a complaint involves a default notice, the credit provider or lessor must provide an IDR response to the complainant within 21 calendar days. Note: An exemption applies for complaints about hardship notices or requests to postpone enforcement proceedings that the complainant has previously sought and the provider or lessor has rejected or not responded to. Given the urgency of these cases, the complainant may take their complaint directly to AFCA once the timeframes in the National Credit Code have passed—for more information, see RG 271.92–RG 271.101.",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.87",
+    "guide": "RG 271",
+    "title": "A credit provider or lessor must give a borrower a ‘default notice’ before comme",
+    "text": "A credit provider or lessor must give a borrower a ‘default notice’ before commencing enforcement proceedings to recover money, take possession of property or sell property: see s88 of the National Credit Code. The default notice must: (a) inform the borrower or lessee that they must remedy the default within 30 calendar days; and (b) substantially meet the pro forma notice requirements in Form 12A and Form 18A of the National Credit Regulations. Note: See s208 of National Credit Code and regs 6, 86, 105K and Forms 12, 12A and 18A of the National Credit Regulations, as amended by the National",
+    "category": "Remedies",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.88",
+    "guide": "RG 271",
+    "title": "A complaint may involve a default notice if, for example, the complainant: (a) a",
+    "text": "A complaint may involve a default notice if, for example, the complainant: (a) alleges that the default notice was not served; (b) disputes the amount specified in the default notice or whether the default notice was rectified; or (c) has a dispute about the lender’s communications leading up to the issue of the default notice. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 29 Enforceable paragraph:",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.89",
+    "guide": "RG 271",
+    "title": "Credit providers (including debt collectors), credit service providers, their cr",
+    "text": "Credit providers (including debt collectors), credit service providers, their credit representatives and unlicensed COI lenders must refrain from commencing or continuing with legal proceedings or any other enforcement action (i.e. debt collection activity) against the complainant. Unless the statute of limitations is about to expire, this applies: (a) while the complaint is being handled at IDR (during the 21 calendar days); and (b) for a reasonable time thereafter. Note: We also expect financial firms to comply with",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.90",
+    "guide": "RG 271",
+    "title": "This will enable the complaint to be genuinely dealt with at IDR.",
+    "text": "This will enable the complaint to be genuinely dealt with at IDR. The ‘reasonable time thereafter’ will also allow the complainant the opportunity to lodge their complaint with AFCA if the complaint cannot be resolved at IDR.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.92",
+    "guide": "RG 271",
+    "title": "Credit providers, credit service providers, lessors and unlicensed COI lenders m",
+    "text": "Credit providers, credit service providers, lessors and unlicensed COI lenders must treat complaints involving hardship notices or requests to postpone enforcement proceedings as urgent matters.",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.93",
+    "guide": "RG 271",
+    "title": "Where a complaint involves a hardship notice or request to postpone enforcement",
+    "text": "Where a complaint involves a hardship notice or request to postpone enforcement proceedings, the following maximum IDR timeframes apply: (a) the credit provider or lessor has 21 calendar days to consider and determine whether to agree to: (i) a change in the terms of the credit contract or lease for hardship (under s72 and 177B of the National Credit Code); or (ii) the request to postpone enforcement proceedings (under s94 and 179H of the National Credit Code); or (b) if the credit provider or lessor requires further information about a hardship notice, they have the additional time allowed fo",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.94",
+    "guide": "RG 271",
+    "title": "If the complaint is not resolved within these timeframes, there will be no furth",
+    "text": "If the complaint is not resolved within these timeframes, there will be no further time at IDR to deal with the complaint (unless",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.95",
+    "guide": "RG 271",
+    "title": "A borrower or guarantor may give a credit provider a hardship notice or request",
+    "text": "A borrower or guarantor may give a credit provider a hardship notice or request the postponement of enforcement proceedings. A lessee may also give a hardship notice or request the postponement of enforcement proceedings for leases entered into on or after 1 March 2013.",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.96",
+    "guide": "RG 271",
+    "title": "Credit providers and lessors should have a dedicated telephone number and, where",
+    "text": "Credit providers and lessors should have a dedicated telephone number and, where possible, a fax number, postal address and email address to accept and deal with hardship notices.",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.97",
+    "guide": "RG 271",
+    "title": "We expect that credit providers, credit service providers, lessors and unlicense",
+    "text": "We expect that credit providers, credit service providers, lessors and unlicensed COI lenders will have systems in place to easily identify a complaint involving a hardship notice or a request to postpone enforcement proceedings.",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.98",
+    "guide": "RG 271",
+    "title": "We confirm in RG 267 that the AFCA Rules may allow AFCA a discretion to vary tim",
+    "text": "We confirm in RG 267 that the AFCA Rules may allow AFCA a discretion to vary timeframes that apply to complaints that are referred back to financial firms for consideration. This may include complaints when no agreement is reached within the maximum IDR timeframes for complaints about hardship notices or requests to postpone enforcement proceedings. Note: See RG 267.187–RG 267.197 for more information about ‘refer back arrangements’.",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.99",
+    "guide": "RG 271",
+    "title": "If a borrower and the credit provider or lessor have reached an agreement about",
+    "text": "If a borrower and the credit provider or lessor have reached an agreement about a hardship notice or postponement of enforcement proceedings, the credit provider or lessor has a further 30 calendar days to confirm in writing: (a) the terms of change to the credit contract or lease (see s73 or 177C of the National Credit Code); or (b) the conditions of postponement of enforcement proceedings (see s95 or 179J of the National Credit Code). Note: Transitional arrangements apply to RG 271.99(a). When an agreement is a ‘simple arrangement’, credit providers and lessors are exempt from having to conf",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.100",
+    "guide": "RG 271",
+    "title": "The credit provider must inform the complainant of their right to complain to AF",
+    "text": "The credit provider must inform the complainant of their right to complain to AFCA and provide AFCA’s contact details at certain points during the process of dealing with a hardship notice and/or request to postpone enforcement proceedings. This information: (a) must be provided when the credit provider or lessor advises the complainant in writing that the credit provider or lessor has not agreed to change the terms of their credit contract or lease, or that the provider or lessor does not agree to negotiate a postponement of enforcement proceedings (see s72, 94, 177B, and 179H of the National",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.101",
+    "guide": "RG 271",
+    "title": "We recognise that complaints involving hardship notices or postponement of enfor",
+    "text": "We recognise that complaints involving hardship notices or postponement of enforcement proceedings may also involve issues relating to default notices. A complainant may lodge their complaint directly with AFCA if the complaint involves a default notice, issued after a credit provider, credit service provider or lessor has not responded to and/or decided not to grant a change to the terms of the credit contract or lease for hardship or postponement of enforcement proceedings. Where this is the case, RG 271.99–",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.102",
+    "guide": "RG 271",
+    "title": "The maximum IDR timeframes for providing an IDR response (see RG 271.",
+    "text": "The maximum IDR timeframes for providing an IDR response (see RG 271.56–RG 271.101) apply to all IDR processes, including those that include internal appeals or escalation mechanisms (multi-tier IDR processes).",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.103",
+    "guide": "RG 271",
+    "title": "Many financial firms operate multi-tier IDR processes.",
+    "text": "Many financial firms operate multi-tier IDR processes. Typically, this might include frontline staff or an initial point of contact considering the complaint. If they are not able to resolve it: (a) an operational area (e.g. claims or underwriting) may review the complaint; and/or (b) a centralised ‘complaints team’ may conduct a further review and investigation.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.104",
+    "guide": "RG 271",
+    "title": "Financial firms should generally aim to resolve the majority of complaints at th",
+    "text": "Financial firms should generally aim to resolve the majority of complaints at the first point of contact, within a short timeframe. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 32",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.105",
+    "guide": "RG 271",
+    "title": "Firms may arrange their complaint management resources and processes to suit the",
+    "text": "Firms may arrange their complaint management resources and processes to suit the nature, scale and complexity of their business; however, complainants should not be disadvantaged by the use of multi-tier IDR processes by financial firms.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.106",
+    "guide": "RG 271",
+    "title": "Regardless of the structure of a firm’s IDR process, the firm’s obligation to de",
+    "text": "Regardless of the structure of a firm’s IDR process, the firm’s obligation to deal with a matter according to our IDR requirements is triggered when the complainant’s expression of dissatisfaction meets the definition of ‘complaint’ set out in RG 271.27. It is not triggered by the referral of a complaint to a specialist complaints or IDR team. Note: See RG 271.27–",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.107",
+    "guide": "RG 271",
+    "title": "Many financial firms have introduced the role of ‘customer advocate’.",
+    "text": "Many financial firms have introduced the role of ‘customer advocate’.",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.108",
+    "guide": "RG 271",
+    "title": "The Ramsay Review considered the impact of the customer advocate role within ban",
+    "text": "The Ramsay Review considered the impact of the customer advocate role within banks. The Ramsay Review final report made the following finding (at p. 195): The appointment of Customer Advocates could potentially assist with the resolution of disputes, but these positions have only recently been created and it is too soon to evaluate their role. Improved IDR data should make it easier to assess the impact of Customer Advocates in the future. Enforceable paragraph: RG 271.109–",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.109",
+    "guide": "RG 271",
+    "title": "A financial firm may offer a complainant the option of escalating their complain",
+    "text": "A financial firm may offer a complainant the option of escalating their complaint to the customer advocate, as an alternative to AFCA, after an IDR response is issued. When making such an offer, the firm must not prevent complainants from exercising their right to access AFCA—for example, by presenting the customer advocate as a mandatory step in the IDR process.",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.110",
+    "guide": "RG 271",
+    "title": "If a complainant chooses to escalate their complaint to the customer advocate, t",
+    "text": "If a complainant chooses to escalate their complaint to the customer advocate, the total time spent dealing with the complaint must not exceed the relevant maximum IDR timeframe set out at Table 2. The total time includes both the IDR process and the customer advocate review. Note 1: For the purposes of calculating the timeframe referred to in RG 271.110, time stops running on the date that the IDR response is sent to the complainant. Time starts to run again from the date that the complainant notifies the financial firm that they wish to escalate the complaint to the customer advocate. Note 2",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.111",
+    "guide": "RG 271",
+    "title": "For the financial dispute resolution system to be fully effective, financial fir",
+    "text": "For the financial dispute resolution system to be fully effective, financial firms need to establish appropriate links between their IDR process and AFCA. A complaint may go through the IDR process but remain unresolved, or may not be resolved within the relevant maximum IDR timeframe. In this instance, the IDR process must require the firm to: (a) inform the complainant that they have a right to pursue their complaint with AFCA; and (b) provide details about how to access AFCA.",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.112",
+    "guide": "RG 271",
+    "title": "The IDR responses and IDR delay notifications financial firms provide to complai",
+    "text": "The IDR responses and IDR delay notifications financial firms provide to complainants must contain these details: see RG 271.53,",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.113",
+    "guide": "RG 271",
+    "title": "Firms should also provide details about how a complainant can access AFCA in a r",
+    "text": "Firms should also provide details about how a complainant can access AFCA in a range of disclosure documents, including: (a) Financial Services Guides; (b) Product Disclosure Statements (PDSs), including short-form PDSs; (c) Credit Guides; (d) periodic statements (including exit statements); and (e) forms and notices issued under the National Credit Code.",
+    "category": "AFCA Escalation",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.114",
+    "guide": "RG 271",
+    "title": "Firms’ broader communications to consumers about their arrangements for managing",
+    "text": "Firms’ broader communications to consumers about their arrangements for managing complaints—including the publicly available complaint management policy, brochures explaining how to complain, relevant website frequently asked questions (FAQs) and call centre scripting should also effectively inform complainants of: (a) their right to take their complaint to AFCA if they are dissatisfied; and (b) the contact details of AFCA.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.115",
+    "guide": "RG 271",
+    "title": "A financial firm may wish to directly refer a complaint to AFCA for resolution.",
+    "text": "A financial firm may wish to directly refer a complaint to AFCA for resolution. This may occur where a firm has given an IDR response to the complainant, but the complaint remains unresolved and the complainant has not escalated it to AFCA. Firms wishing to make such a referral need to obtain the consent of the complainant(s) to do so: see RG 267.99.",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.116",
+    "guide": "RG 271",
+    "title": "When complaints involve hardship notices or requests for postponement of enforce",
+    "text": "When complaints involve hardship notices or requests for postponement of enforcement proceedings, interest and other default charges may continue to accrue. This may increase the need for financial firms to directly refer complaints to AFCA. The complainant’s consent to the referral also needs to be obtained in these circumstances: see RG 267.100. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 34 D Systemic issues Key points Consumer complaints are a key risk indicator for systemic issues within a financial firm. The ear",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.117",
+    "guide": "RG 271",
+    "title": "Consumer complaints are a key risk indicator for systemic issues within a financ",
+    "text": "Consumer complaints are a key risk indicator for systemic issues within a financial firm. A systemic issue is a matter that affects, or has the potential to affect, more than one consumer. Some examples include: (a) a disclosure document that is inadequate or misleading; (b) a systems issue that produces errors—for example, benefit calculation errors or interest calculation errors; (c) a unit pricing error that incorrectly allocates investment earnings to members; (d) a documented procedure that does not comply with legal requirements—for example, it permits privacy requirements to be breached",
+    "category": "Privacy",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.118",
+    "guide": "RG 271",
+    "title": "Boards must set clear accountabilities for complaints handling functions, includ",
+    "text": "Boards must set clear accountabilities for complaints handling functions, including the management of systemic issues identified through consumer complaints. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 35",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.119",
+    "guide": "RG 271",
+    "title": "If a financial firm provides reports to the board and/or executive committees, t",
+    "text": "If a financial firm provides reports to the board and/or executive committees, the reports must include metrics and analysis of consumer complaints including about systemic issues identified through those complaints.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.120",
+    "guide": "RG 271",
+    "title": "Financial firms must: (a) encourage and enable staff to escalate possible system",
+    "text": "Financial firms must: (a) encourage and enable staff to escalate possible systemic issues they identify from individual complaints; (b) regularly analyse complaint data sets to identify systemic issues; (c) promptly escalate possible systemic issues to appropriate areas within the firm for investigation and action; and (d) report internally on the outcome of investigations, including actions taken, in a timely manner. Note: Some smaller firms may not have escalation processes to investigate systemic issues. They must still act in a timely manner to investigate possible systemic issues identifi",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.121",
+    "guide": "RG 271",
+    "title": "If an investigation confirms that a systemic issue exists, we expect the financi",
+    "text": "If an investigation confirms that a systemic issue exists, we expect the financial firm to take prompt action to identify affected consumers and provide fair remediation.",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.122",
+    "guide": "RG 271",
+    "title": "The early identification and resolution of systemic issues by financial firms sh",
+    "text": "The early identification and resolution of systemic issues by financial firms should prevent these matters being escalated to AFCA. AFCA also has a statutory responsibility to identify, refer and report systemic issues to a regulator where it considers that there is a systemic issue arising from its consideration of a complaint: see RG 267.65.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.123",
+    "guide": "RG 271",
+    "title": "AFCA must make a report to a regulator (ASIC, the Australian Prudential Regulati",
+    "text": "AFCA must make a report to a regulator (ASIC, the Australian Prudential Regulation Authority or the Australian Taxation Office) as soon as practicable—but no later than 15 calendar days—after AFCA considers that there is a systemic issue. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 36 E IDR standards Key points Our IDR standards reflect the requirements for effective complaint management in AS/NZS 10002:2014 and other matters we consider relevant, given our own regulatory experience. We expect that our IDR standards c",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.124",
+    "guide": "RG 271",
+    "title": "We expect financial firms to comply with our IDR standards for the design, imple",
+    "text": "We expect financial firms to comply with our IDR standards for the design, implementation, and ongoing improvement of financial firms’ IDR processes. ‘Process’ refers to the totality of all procedures, documents, policies, resources, systems, governance and arrangements in place to manage complaints.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.125",
+    "guide": "RG 271",
+    "title": "Our IDR standards reflect the requirements for effective complaint management se",
+    "text": "Our IDR standards reflect the requirements for effective complaint management set out in AS/NZS 10002:2014 and other matters we consider relevant given our own regulatory experience. AS/NZS 10002:2014 does not apply exclusively to financial services or credit, and has been drafted broadly so that it can: (a) apply to any industry in which consumers participate; and (b) be implemented by a business of any size.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.126",
+    "guide": "RG 271",
+    "title": "We expect that the IDR standards can be adapted by financial firms to suit the n",
+    "text": "We expect that the IDR standards can be adapted by financial firms to suit the nature, scale and complexity of their business. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 37 Commitment and culture",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.127",
+    "guide": "RG 271",
+    "title": "We expect financial firms to develop and maintain a positive complaint managemen",
+    "text": "We expect financial firms to develop and maintain a positive complaint management culture that welcomes and values complaints. A positive complaint management culture can produce beneficial outcomes for both consumers and financial firms. Top-level commitment",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.128",
+    "guide": "RG 271",
+    "title": "Boards (if applicable), chief executives and senior management should be activel",
+    "text": "Boards (if applicable), chief executives and senior management should be actively interested in and support effective complaint management by: (a) having board and/or senior management oversight of the IDR process; (b) providing adequate resources, including training and support to staff managing complaints; (c) establishing and promoting a complaint management policy and procedure; (d) implementing information technology (IT) systems and reporting procedures to ensure timely and effective complaint management and monitoring; and (e) establishing clear roles and responsibilities for the manage",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.129",
+    "guide": "RG 271",
+    "title": "The culture of the firm should: (a) recognise that everyone has a right to compl",
+    "text": "The culture of the firm should: (a) recognise that everyone has a right to complain; and (b) be open to receiving complaints and demonstrate a commitment to resolving complaints through action.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.130",
+    "guide": "RG 271",
+    "title": "The firm should encourage staff to treat complainants with respect, be helpful a",
+    "text": "The firm should encourage staff to treat complainants with respect, be helpful and adopt a user-friendly approach to complaint management. This is particularly important where complaints involve default notices, hardship notices or requests for postponement of enforcement proceedings. Enabling complaints",
+    "category": "Hardship",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.131",
+    "guide": "RG 271",
+    "title": "Firms should encourage complaints and make it easy for people to voice their con",
+    "text": "Firms should encourage complaints and make it easy for people to voice their concerns by developing an IDR system that is readily accessible and easy to use. Firms should proactively identify people who might need additional assistance. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 38 Visibility",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.132",
+    "guide": "RG 271",
+    "title": "Firms should widely publicise information about how and where complaints may be",
+    "text": "Firms should widely publicise information about how and where complaints may be made, by: (a) publishing their complaints policy online and making it available in hard copy on request. Information about the IDR process should be readily available, not just at the time a consumer wishes to make a complaint; (b) including information about the IDR process in product welcome packs. It is a requirement to include details about accessing the IDR process in Financial Services Guides, PDSs, Credit Guides and periodic statements; and (c) providing training to all staff, not just complaints management",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.133",
+    "guide": "RG 271",
+    "title": "Firms should also implement proactive and innovative approaches to promoting awa",
+    "text": "Firms should also implement proactive and innovative approaches to promoting awareness about the IDR process and sourcing complaints from vulnerable people and groups. Accessibility Enforceable paragraph:",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.134",
+    "guide": "RG 271",
+    "title": "The IDR process must be easy to understand and use, including by people with dis",
+    "text": "The IDR process must be easy to understand and use, including by people with disability or language difficulties.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.135",
+    "guide": "RG 271",
+    "title": "This can be achieved by firms: (a) ensuring that information provided to the pub",
+    "text": "This can be achieved by firms: (a) ensuring that information provided to the public about the IDR process is available in a range of languages and formats (including large print, Braille or audiotape); (b) using Australian Sign Language (AUSLAN) video presentations of material on their website; (c) enabling people to adjust the font size of information on their website; (d) offering text telephone (TTY) and the National Relay Service (NRS) to complainants; and (e) offering translation services to complainants or making staff available who are cross-culturally trained.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.136",
+    "guide": "RG 271",
+    "title": "The process should be flexible about how complaints are lodged and offer multipl",
+    "text": "The process should be flexible about how complaints are lodged and offer multiple lodgement methods—including telephone, email, letter, social media, in person, or online. Complaints do not need to be in writing—in some cases, insisting that complaints are in written form can be a disincentive to the complainant.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.137",
+    "guide": "RG 271",
+    "title": "Firms should provide a toll-free or local call telephone number.",
+    "text": "Firms should provide a toll-free or local call telephone number. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 39",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.138",
+    "guide": "RG 271",
+    "title": "Firms should train staff to proactively identify, support and assist people who",
+    "text": "Firms should train staff to proactively identify, support and assist people who need help to make a complaint.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.139",
+    "guide": "RG 271",
+    "title": "Firms should allow representatives to lodge complaints on behalf of complainants.",
+    "text": "Firms should allow representatives to lodge complaints on behalf of complainants. Such representatives might include financial counsellors, legal representatives, family, friends and members of parliament. Firms should not put in place barriers to accepting authorities from these representatives. Once a firm is notified that a complainant has authorised a representative, the firm should not contact the complainant directly unless: (a) the complainant specifically requests direct communication with the firm; (b) the firm reasonably believes that the representative is acting against the complain",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.140",
+    "guide": "RG 271",
+    "title": "Firms should continuously review the effectiveness of IDR communications.",
+    "text": "Firms should continuously review the effectiveness of IDR communications. No charges or detriment Enforceable paragraph:",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.141",
+    "guide": "RG 271",
+    "title": "The IDR process must be free to complainants.",
+    "text": "The IDR process must be free to complainants. We consider that: (a) material explaining the IDR process must be provided free of charge to complainants; and (b) complainants must be able to make or pursue their complaint via the IDR process free of charge. Resourcing Enforceable paragraph:",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.142",
+    "guide": "RG 271",
+    "title": "The IDR process must be resourced so that it operates fairly, effectively and ef",
+    "text": "The IDR process must be resourced so that it operates fairly, effectively and efficiently. The financial firm must regularly review whether the IDR process is adequately resourced. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 40 Staff numbers Enforceable paragraph:",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.143",
+    "guide": "RG 271",
+    "title": "Staffing numbers must be sufficient to deal with complaints in a fair and effect",
+    "text": "Staffing numbers must be sufficient to deal with complaints in a fair and effective manner within maximum IDR timeframes. This includes resourcing the IDR function to deal with intermittent spikes in complaint volumes. Roles, responsibilities and empowerment",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.144",
+    "guide": "RG 271",
+    "title": "Staff expected to play a role in the firm’s IDR process include: (a) the chief e",
+    "text": "Staff expected to play a role in the firm’s IDR process include: (a) the chief executive (or equivalent) and senior management; (b) the manager responsible for the IDR process; (c) staff managing complaints; (d) business unit managers; and (e) frontline staff.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.145",
+    "guide": "RG 271",
+    "title": "All staff should understand their roles and responsibilities in relation to the",
+    "text": "All staff should understand their roles and responsibilities in relation to the IDR process. Empowering staff and financial delegations Enforceable paragraphs: RG 271.146–",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.146",
+    "guide": "RG 271",
+    "title": "Firms must provide relevant staff with appropriate authority to be able to resol",
+    "text": "Firms must provide relevant staff with appropriate authority to be able to resolve complaints.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.147",
+    "guide": "RG 271",
+    "title": "Firms must ensure that the authorities for determining and/or approving complain",
+    "text": "Firms must ensure that the authorities for determining and/or approving complaint outcomes (including product contract variations) and the financial delegations in place for paying amounts to complainants facilitate the fair and efficient resolution of complaints. Skills, attributes and training",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.148",
+    "guide": "RG 271",
+    "title": "We expect staff who deal with complaints to have the knowledge, skills and attri",
+    "text": "We expect staff who deal with complaints to have the knowledge, skills and attributes to effectively perform their roles. This includes: (a) knowledge of this regulatory guide, consumer protection laws relating to financial products and services, AFCA approaches and relevant industry codes of practice; (b) an understanding of the products and services offered by the financial firm; (c) empathy, respect and courtesy; (d) awareness of cultural differences and the ability to identify and assist complainants who need additional assistance; REGULATORY GUIDE 271: Internal dispute resolution © Austra",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.149",
+    "guide": "RG 271",
+    "title": "Firms should incorporate these skills and attributes into key human resource doc",
+    "text": "Firms should incorporate these skills and attributes into key human resource documents for complaint management staff, including position descriptions, development plans and performance assessments.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.150",
+    "guide": "RG 271",
+    "title": "Firms should provide targeted induction and ongoing training to staff who handle",
+    "text": "Firms should provide targeted induction and ongoing training to staff who handle complaints. Topics may include: (a) the firm’s IDR policy and process, including roles, responsibilities, authority and escalation points; (b) the requirements of this guide; (c) financial services consumer protection laws, AFCA position statements and industry codes of practice; (d) the firm’s products and services; (e) how to identify and help complainants who need additional assistance; (f) dealing with unreasonable complainant conduct; (g) effective communication and negotiation techniques; (h) effective writt",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.151",
+    "guide": "RG 271",
+    "title": "Firms should provide complaint management staff with adequate materials and equi",
+    "text": "Firms should provide complaint management staff with adequate materials and equipment to handle complaints. This includes scripts, FAQs, checklists, sample letters and templates, specialist support materials, complaint management IT systems and finances. Health, safety and support",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.152",
+    "guide": "RG 271",
+    "title": "Firms should develop health and safety policies to support staff involved in com",
+    "text": "Firms should develop health and safety policies to support staff involved in complaint management. This may include: (a) policies and procedures for managing unreasonable conduct by complainants (see RG 271.170); (b) protecting the identity of staff where required; and (c) providing access to internal debriefing sessions or employee assistance programs. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 42 Continual review",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.153",
+    "guide": "RG 271",
+    "title": "Firms should regularly review the adequacy of IDR resources.",
+    "text": "Firms should regularly review the adequacy of IDR resources. Responsiveness",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.154",
+    "guide": "RG 271",
+    "title": "Firms’ IDR processes should work efficiently and be capable of responding to eac",
+    "text": "Firms’ IDR processes should work efficiently and be capable of responding to each complaint in a timely and flexible manner. This includes meeting the maximum IDR timeframes set out in this guide. Early resolution",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.155",
+    "guide": "RG 271",
+    "title": "Firms should actively encourage staff to resolve complaints, wherever possible,",
+    "text": "Firms should actively encourage staff to resolve complaints, wherever possible, at the first point of contact.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.156",
+    "guide": "RG 271",
+    "title": "Firms’ data analysis and internal reporting should measure and actively monitor",
+    "text": "Firms’ data analysis and internal reporting should measure and actively monitor the volume of complaints resolved at first point of contact. Acknowledging complaints",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.157",
+    "guide": "RG 271",
+    "title": "Complaints should be acknowledged in accordance with the requirements set out at",
+    "text": "Complaints should be acknowledged in accordance with the requirements set out at RG 271.51–RG 271.52. Triaging complaints",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.158",
+    "guide": "RG 271",
+    "title": "When a complaint is received, complaint management staff should assess and prior",
+    "text": "When a complaint is received, complaint management staff should assess and prioritise complaints according to the urgency and severity of the issues raised. Example of matters that should be prioritised include where: (a) the complainant is experiencing domestic or financial abuse; (b) the complainant has a serious or terminal illness; or (c) a delay in addressing the complaint could adversely affect the complainant’s basic living conditions. Responding flexibly",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.159",
+    "guide": "RG 271",
+    "title": "Firms should deal with complaints with as little formality as possible and avoid",
+    "text": "Firms should deal with complaints with as little formality as possible and avoid requirements (e.g. that a complaint must be lodged in writing) that restrict complainants’ access to the IDR process.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.160",
+    "guide": "RG 271",
+    "title": "Firms should adopt a range of flexible complaint management approaches that prom",
+    "text": "Firms should adopt a range of flexible complaint management approaches that promote early resolution, wherever appropriate. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 43 Remedies",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.161",
+    "guide": "RG 271",
+    "title": "Firms should consider a broad range of possible remedies when attempting to reso",
+    "text": "Firms should consider a broad range of possible remedies when attempting to resolve complaints. Remedies may include: (a) an explanation of the circumstances giving rise to the complaint; (b) an apology; (c) provision of assistance and support; (d) a refund or waiver of a fee or charge; (e) a goodwill payment; (f) a payment of compensation; (g) a waiver of a debt; (h) replacing damaged or lost property; (i) correcting incorrect or out-of-date records; (j) repairing physical damage to property; (k) changing the terms of a contract; (l) ceasing legal or other action that may cause detriment; and",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.162",
+    "guide": "RG 271",
+    "title": "Firms should ensure that any agreed resolution outcomes are implemented in a tim",
+    "text": "Firms should ensure that any agreed resolution outcomes are implemented in a timely manner when a complaint is closed. Maximum IDR timeframes Enforceable paragraph:",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.163",
+    "guide": "RG 271",
+    "title": "Financial firms must adhere to our requirements for issuing IDR responses within",
+    "text": "Financial firms must adhere to our requirements for issuing IDR responses within maximum IDR timeframes: see RG 271.56–RG 271.101. Closing complaints",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.164",
+    "guide": "RG 271",
+    "title": "When closing a complaint, firms should record the complaint outcome, complaint r",
+    "text": "When closing a complaint, firms should record the complaint outcome, complaint remedy and financial compensation amount (if any). Enforceable paragraph:",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.165",
+    "guide": "RG 271",
+    "title": "Firms must ensure that complaint resolution outcomes (e.",
+    "text": "Firms must ensure that complaint resolution outcomes (e.g. refunds, fee waivers, correction of records, compensation payments) are implemented in a timely manner when a complaint is closed. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 44 Objectivity and fairness",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.166",
+    "guide": "RG 271",
+    "title": "We expect firms to develop processes that ensure each complaint is managed fairl",
+    "text": "We expect firms to develop processes that ensure each complaint is managed fairly, objectively and without actual or perceived bias. Objectivity",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.167",
+    "guide": "RG 271",
+    "title": "Financial firms should manage complaints objectively and without actual or perce",
+    "text": "Financial firms should manage complaints objectively and without actual or perceived bias. This requires that: (a) IDR processes allow adequate opportunity for each party to make their case; (b) wherever possible, the complaint is considered by staff not involved in the subject matter of the complaint. We recognise that this will not always be possible for a small financial firm;",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.168",
+    "guide": "RG 271",
+    "title": "IDR processes allow for other persons who may request an information return (e.",
+    "text": "IDR processes allow for other persons who may request an information return (e.g. beneficiaries), and who may reasonably have an interest in the outcome of a traditional services complaint, to be identified, notified and their views considered, where relevant to the efficient and fair handling of the complaint. Privacy",
+    "category": "Privacy",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.169",
+    "guide": "RG 271",
+    "title": "Firms need to have processes and systems in place to ensure that they comply wit",
+    "text": "Firms need to have processes and systems in place to ensure that they comply with their obligations under privacy laws when dealing with complaints. Unreasonable complainant conduct",
+    "category": "Privacy",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.170",
+    "guide": "RG 271",
+    "title": "Each complaint should be managed in an equitable manner, including those lodged",
+    "text": "Each complaint should be managed in an equitable manner, including those lodged by complainants who display unreasonable or challenging behaviour. Firms should develop a policy for dealing with unreasonable or challenging complainant conduct. Note: For more information about dealing with unreasonable conduct by complainants, see Appendix E to AS/NZS 10002:2014. Postponement of action",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.171",
+    "guide": "RG 271",
+    "title": "Where appropriate, financial firms should postpone actions that could adversely",
+    "text": "Where appropriate, financial firms should postpone actions that could adversely affect the complainant until the complaint has been finalised and an IDR response has been provided: see RG 271.92–",
+    "category": "IDR Response",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.172",
+    "guide": "RG 271",
+    "title": "Complaint management documentation is a key component of a financial firm’s IDR",
+    "text": "Complaint management documentation is a key component of a financial firm’s IDR process. Firms must have a publicly available, readily accessible complaints policy and an internal complaint management procedure. Firms must provide material that explains their IDR process free of charge to complainants. Public complaints policy",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.173",
+    "guide": "RG 271",
+    "title": "A firm’s complaints policy should explain: (a) how consumers may lodge a complai",
+    "text": "A firm’s complaints policy should explain: (a) how consumers may lodge a complaint with the firm (e.g. online, by email, by phone and in person); (b) the options available to assist complainants who might need additional assistance to lodge a complaint; (c) the firm’s key steps for dealing with complaints, including acknowledgement, assessment and investigation, and provision of an IDR response; (d) response timeframes; and (e) details about accessing AFCA where a complaint is not resolved.",
+    "category": "IDR Timeframes",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.174",
+    "guide": "RG 271",
+    "title": "The complaints policy should be readily available to the public, in a range of f",
+    "text": "The complaints policy should be readily available to the public, in a range of formats and languages. In particular, the policy should appear on the firm’s website in an accessible location. Internal complaint management procedure",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.175",
+    "guide": "RG 271",
+    "title": "Firms should have a documented internal complaint management procedure to suppor",
+    "text": "Firms should have a documented internal complaint management procedure to support the public complaint management policy.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.176",
+    "guide": "RG 271",
+    "title": "The procedure should be a comprehensive and useful tool for staff who deal with",
+    "text": "The procedure should be a comprehensive and useful tool for staff who deal with complaints, providing a step-by-step guide to the entire IDR process, and clearly setting out staff roles and responsibilities.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.177",
+    "guide": "RG 271",
+    "title": "The internal complaint management procedure should be anchored to the IDR requir",
+    "text": "The internal complaint management procedure should be anchored to the IDR requirements set out in this regulatory guide, including the IDR standards. At a minimum, we expect a firm’s internal procedure to address our requirements for: (a) the definition of ‘complaint’ and the types of matters that must be dealt with in accordance with our IDR requirements (see RG 271.27) (b) proactively identifying and assisting complainants who might need additional assistance (see RG 271.131–RG 271.141); (c) acknowledging complaints (see RG 271.51–RG 271.52); REGULATORY GUIDE 271: Internal dispute resolution",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.178",
+    "guide": "RG 271",
+    "title": "Firms should regularly review the adequacy of complaint management documentation",
+    "text": "Firms should regularly review the adequacy of complaint management documentation, including the complaints policy and internal procedure. Data collection, analysis and internal reporting Enforceable paragraph:",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.179",
+    "guide": "RG 271",
+    "title": "Firms must record all complaints that they receive.",
+    "text": "Firms must record all complaints that they receive. They must have an effective system for recording information about complaints. The system must enable firms to keep track of the progress of each complaint.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.180",
+    "guide": "RG 271",
+    "title": "Firms should design their complaints system to suit the nature, scale and comple",
+    "text": "Firms should design their complaints system to suit the nature, scale and complexity of their business, including the number of complaints they receive. Firms that receive few complaints might, for example, use a spreadsheet. We expect firms with large volumes of complaints to use specialised complaints software or to integrate complaint management data fields into existing customer relationship management systems. Conduct ongoing data analysis",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.181",
+    "guide": "RG 271",
+    "title": "Firms should analyse complaint data regularly so that they can: (a) monitor the",
+    "text": "Firms should analyse complaint data regularly so that they can: (a) monitor the performance of the IDR process; (b) identify possible systemic issues and areas where product or service delivery improvements are required; and REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 47 (c) identify matters that are likely to need to be reported to ASIC under s912D of the Corporations Act.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.182",
+    "guide": "RG 271",
+    "title": "To monitor the performance of the IDR process, firms should collect and analyse",
+    "text": "To monitor the performance of the IDR process, firms should collect and analyse the following items of data (at a minimum) at regular intervals: (a) number of complaints received; (b) number of complaints closed; (c) nature of complaints (e.g. product and problem); (d) time taken to acknowledge complaints; (e) time taken to resolve or finalise complaints; (f) complaint outcomes, including: (i) number of complaints resolved; (ii) number of complaints unresolved; (iii) number of complaints abandoned/withdrawn; and (iv) details of amounts paid to complainants to resolve complaints; (g) possible s",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.183",
+    "guide": "RG 271",
+    "title": "Financial firms must provide reports about complaints data regularly to senior m",
+    "text": "Financial firms must provide reports about complaints data regularly to senior management and the firm’s board (or equivalent).",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.184",
+    "guide": "RG 271",
+    "title": "These reports should include: (a) the number of complaints received; (b) the num",
+    "text": "These reports should include: (a) the number of complaints received; (b) the number of complaints closed; (c) the circumstances giving rise to complaints (e.g. products, services, and issues and reasons); (d) the time taken to acknowledge complaints; (e) the time taken to resolve or finalise complaints; (f) complaint outcomes, including: (i) the number of complaints resolved; (ii) the number of complaints unresolved; (iii) the number of complaints that were abandoned or withdrawn; and (iv) details of amounts paid to complainants to resolve complaints; (g) possible systemic issues identified; (",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.185",
+    "guide": "RG 271",
+    "title": "Firms should also report on complaints in their annual reports, if applicable.",
+    "text": "Firms should also report on complaints in their annual reports, if applicable. Continuous improvement",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.186",
+    "guide": "RG 271",
+    "title": "Firms should monitor and review the performance of their IDR process.",
+    "text": "Firms should monitor and review the performance of their IDR process. This includes monitoring of complaint metrics, ongoing quality assurance and regular reviews. Complaint metrics and monitoring",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.187",
+    "guide": "RG 271",
+    "title": "Firms should monitor the key metrics for complaint management set out in",
+    "text": "Firms should monitor the key metrics for complaint management set out in",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.188",
+    "guide": "RG 271",
+    "title": "Firms should carry out regular and ongoing quality assurance of complaint manage",
+    "text": "Firms should carry out regular and ongoing quality assurance of complaint management activity by frontline and specialist complaints teams, including monitoring whether: (a) complaints are being recorded in the firm’s complaint management system; (b) telephone contact and correspondence with complainants is clear and consumer focused; (c) complaint outcomes are fair; and (d) complainants are being provided with their escalation options, including AFCA. Compliance audits",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.189",
+    "guide": "RG 271",
+    "title": "Firms should conduct regular compliance audits to identify and address issues of",
+    "text": "Firms should conduct regular compliance audits to identify and address issues of non-conformity with this regulatory guide and internal requirements.",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.190",
+    "guide": "RG 271",
+    "title": "Unless the number of complaints is very small, we would expect compliance audits",
+    "text": "Unless the number of complaints is very small, we would expect compliance audits to be undertaken at least annually. Where non-compliance with this regulatory guide is identified, appropriate action should be taken—such as performance feedback, re-training and enhanced supervision for complaints management staff and, where appropriate, rectification for the complainants adversely affected by the non-compliance. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 49 Customer advocate recommendations",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.191",
+    "guide": "RG 271",
+    "title": "Firms with customer advocates should genuinely consider any recommendations made",
+    "text": "Firms with customer advocates should genuinely consider any recommendations made by customer advocates to improve the IDR process.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.192",
+    "guide": "RG 271",
+    "title": "There should be a transparent internal process for responding to recommendations",
+    "text": "There should be a transparent internal process for responding to recommendations made by customer advocates. Review program",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.193",
+    "guide": "RG 271",
+    "title": "Senior management should conduct or arrange regular reviews of the IDR process t",
+    "text": "Senior management should conduct or arrange regular reviews of the IDR process to: (a) consider the suitability, effectiveness and efficiency of the IDR system; (b) assess whether systemic issues are being promptly identified and remedial action taken to address the issues; (c) assess whether the remedial action is prioritised and effective; (d) identify improvements that need to be made; and (e) assess customer satisfaction (e.g. through surveys).",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.194",
+    "guide": "RG 271",
+    "title": "For a smaller firm with few complaints, senior management could undertake the ID",
+    "text": "For a smaller firm with few complaints, senior management could undertake the IDR process review in conjunction with the compliance audit.",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.195",
+    "guide": "RG 271",
+    "title": "For a larger firm, the internal audit function or an appropriately qualified ind",
+    "text": "For a larger firm, the internal audit function or an appropriately qualified independent consultant could undertake the IDR process review.",
+    "category": "IDR Process",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.196",
+    "guide": "RG 271",
+    "title": "The financial firm should develop a plan to action review recommendations.",
+    "text": "The financial firm should develop a plan to action review recommendations. These actions should be tracked by senior management to ensure that sustainable improvements are made. Other improvement activities",
+    "category": "General IDR",
+    "effective_date": "2021-09-02"
+  },
+  {
+    "section_id": "RG 271.197",
+    "guide": "RG 271",
+    "title": "Firms should also consider other improvement activities, including: (a) conducti",
+    "text": "Firms should also consider other improvement activities, including: (a) conducting benchmarking exercises; (b) establishing a feedback mechanism for staff to record improvement opportunities; (c) encouraging innovation in complaint management practices; and (d) recognising and rewarding exemplary management of complaints. REGULATORY GUIDE 271: Internal dispute resolution © Australian Securities and Investments Commission September 2021 Page 50 Key terms Term Meaning in this document AFCA Australian Financial Complaints Authority—The EDR scheme for which an authorisation under Pt 7.10A of the C",
+    "category": "Complaint Handling",
+    "effective_date": "2021-09-02"
+  }
+]
