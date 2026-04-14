@@ -7,6 +7,12 @@
 [![LangChain](https://img.shields.io/badge/LangChain-0.3-orange.svg)](https://langchain.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<br>
+<p align="center">
+  <img src="assets/demo.webp" alt="PolicyPilot Streamlit Dashboard Demo" width="100%">
+</p>
+<br>
+
 ---
 
 ## Problem
